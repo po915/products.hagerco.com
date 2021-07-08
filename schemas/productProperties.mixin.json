@@ -1,0 +1,1297 @@
+{
+    "cs:$no_new_masterdata": true,
+    "cs:asset.type": null,
+    "type": "object",
+    "properties": {
+        "siren": {
+            "cs:feature.key": "hager:product.Siren",
+            "type": "string"
+        },
+        "diameterOfRod": {
+            "cs:feature.key": "hager:product.DiameterOfRod",
+            "type": "string"
+        },
+        "functions": {
+            "cs:feature.key": "hager:product.Functions",
+            "type": "string"
+        },
+        "springs": {
+            "cs:feature.key": "hager:product.Springs",
+            "type": "string"
+        },
+        "steelBolt": {
+            "cs:feature.key": "hager:product.SteelBolt",
+            "type": "string"
+        },
+        "valves": {
+            "cs:feature.key": "hager:product.Valves",
+            "type": "string"
+        },
+        "mechanical": {
+            "cs:feature.key": "hager:product.mechanical",
+            "type": "string"
+        },
+        "type": {
+            "cs:feature.key": "hager:product.Type",
+            "type": "string"
+        },
+        "cover": {
+            "cs:feature.key": "hager:product.Cover",
+            "type": "string"
+        },
+        "fastenersize-wood": {
+            "cs:feature.key": "hager:product.fastenersize-wood",
+            "type": "string"
+        },
+        "specialFeatures": {
+            "cs:feature.key": "hager:product.SpecialFeatures",
+            "type": "string"
+        },
+        "trim": {
+            "cs:feature.key": "hager:product.Trim",
+            "type": "string"
+        },
+        "maximumMountingHeight": {
+            "cs:feature.key": "hager:product.MaximumMountingHeight",
+            "type": "string"
+        },
+        "applicationFeatures": {
+            "cs:feature.key": "hager:product.ApplicationFeatures",
+            "type": "string"
+        },
+        "fastenerholes": {
+            "cs:feature.key": "hager:product.fastenerholes",
+            "type": "number"
+        },
+        "price": {
+            "cs:feature.$unit_set": "censhare:currency",
+            "cs:feature.$unit_property": "unit",
+            "cs:feature.$value_property": "value",
+            "cs:feature.key": "hager:product.price",
+            "type": "object",
+            "properties": {
+                "unit": {
+                    "type": "string"
+                },
+                "value": {
+                    "type": "number"
+                }
+            }
+        },
+        "specialnote2": {
+            "cs:feature.key": "hager:product.specialnote2",
+            "type": "string"
+        },
+        "engagedStrikeProjectionWalltoDoor": {
+            "cs:feature.key": "hager:product.EngagedStrikeProjectionWalltoDoor",
+            "type": "string"
+        },
+        "specialnote1": {
+            "cs:feature.key": "hager:product.specialnote1",
+            "type": "string"
+        },
+        "options": {
+            "cs:feature.key": "hager:product.options",
+            "type": "string"
+        },
+        "standardOpeningRange": {
+            "cs:feature.key": "hager:product.StandardOpeningRange",
+            "type": "string"
+        },
+        "packagedSets": {
+            "cs:feature.key": "hager:product.PackagedSets",
+            "type": "string"
+        },
+        "warranty": {
+            "cs:feature.key": "hager:product.warranty",
+            "type": "string"
+        },
+        "catch": {
+            "cs:feature.key": "hager:product.Catch",
+            "type": "string"
+        },
+        "codeCompliance": {
+            "cs:feature.key": "hager:product.CodeCompliance",
+            "type": "string"
+        },
+        "case": {
+            "type": "object",
+            "properties": {
+                "quantity": {
+                    "cs:feature.key": "hager:product.casequantity",
+                    "type": "string"
+                },
+                "length": {
+                    "cs:feature.key": "hager:product.caselength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.casewidth",
+                    "type": "number"
+                },
+                "weight": {
+                    "cs:feature.$unit_set": "censhare:weight",
+                    "cs:feature.$unit_property": "unit",
+                    "cs:feature.$value_property": "value",
+                    "cs:feature.key": "hager:product.caseweight",
+                    "type": "object",
+                    "properties": {
+                        "unit": {
+                            "type": "string"
+                        },
+                        "value": {
+                            "type": "number"
+                        }
+                    }
+                },
+                "pack": {
+                    "cs:feature.key": "hager:product.CasePack",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.caseheight",
+                    "type": "number"
+                }
+            }
+        },
+        "mountTotalProjection": {
+            "cs:feature.key": "hager:product.MountTotalProjection",
+            "type": "string"
+        },
+        "productDescription": {
+            "cs:feature.key": "hager:product.productdescription",
+            "type": "string"
+        },
+        "armature": {
+            "type": "object",
+            "properties": {
+                "depth": {
+                    "cs:feature.key": "hager:product.ArmatureDepth",
+                    "type": "string"
+                },
+                "length": {
+                    "cs:feature.key": "hager:product.ArmatureLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.armaturewidth",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.armatureheight",
+                    "type": "string"
+                }
+            }
+        },
+        "barrelDiameter": {
+            "cs:feature.key": "hager:product.BarrelDiameter",
+            "type": "string"
+        },
+        "height": {
+            "cs:feature.key": "hager:product.height",
+            "type": "string"
+        },
+        "gauge": {
+            "cs:feature.key": "hager:product.gauge",
+            "type": "string"
+        },
+        "basePlate": {
+            "type": "object",
+            "properties": {
+                "length": {
+                    "cs:feature.key": "hager:product.BasePlateLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.BasePlateWidth",
+                    "type": "number"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.BasePlateHeight",
+                    "type": "number"
+                }
+            }
+        },
+        "models": {
+            "cs:feature.key": "hager:product.Models",
+            "type": "string"
+        },
+        "1gang": {
+            "type": "object",
+            "properties": {
+                "gauge": {
+                    "cs:feature.key": "hager:product.1ganggauge",
+                    "type": "string"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.1gangwidth",
+                    "type": "number"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.1gangheright",
+                    "type": "number"
+                }
+            }
+        },
+        "casePack": {
+            "type": "object",
+            "properties": {
+                "length": {
+                    "cs:feature.key": "hager:product.CasePackLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.CasePackWidth",
+                    "type": "number"
+                },
+                "weight": {
+                    "cs:feature.$unit_set": "censhare:weight",
+                    "cs:feature.$unit_property": "unit",
+                    "cs:feature.$value_property": "value",
+                    "cs:feature.key": "hager:product.CasePackWeight",
+                    "type": "object",
+                    "properties": {
+                        "unit": {
+                            "type": "string"
+                        },
+                        "value": {
+                            "type": "number"
+                        }
+                    }
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.CasePackHeight",
+                    "type": "number"
+                }
+            }
+        },
+        "forend": {
+            "type": "object",
+            "properties": {
+                "length": {
+                    "cs:feature.key": "hager:product.ForendLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.ForendWidth",
+                    "type": "number"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.ForendHeight",
+                    "type": "number"
+                }
+            }
+        },
+        "armsAndBrackets": {
+            "cs:feature.key": "hager:product.ArmsAndBrackets",
+            "type": "string"
+        },
+        "constructionBody": {
+            "cs:feature.key": "hager:product.ConstructionBody",
+            "type": "string"
+        },
+        "pushBarProjection": {
+            "cs:feature.key": "hager:product.PushBarProjection",
+            "type": "string"
+        },
+        "size": {
+            "cs:feature.key": "hager:product.size",
+            "type": "string"
+        },
+        "stop": {
+            "cs:feature.key": "hager:product.Stop",
+            "type": "string"
+        },
+        "deadboltThrow": {
+            "cs:feature.key": "hager:product.DeadboltThrow",
+            "type": "string"
+        },
+        "latchboltThrow": {
+            "cs:feature.key": "hager:product.LatchboltThrow",
+            "type": "string"
+        },
+        "conformsTo": {
+            "cs:feature.key": "hager:product.ConformsTo",
+            "type": "string"
+        },
+        "quickship": {
+            "cs:feature.key": "hager:product.quickship",
+            "type": "number"
+        },
+        "loadRating": {
+            "cs:feature.key": "hager:product.LoadRating",
+            "type": "string"
+        },
+        "lettering": {
+            "cs:feature.key": "hager:product.Lettering",
+            "type": "string"
+        },
+        "knob": {
+            "type": "object",
+            "properties": {
+                "diameter": {
+                    "cs:feature.key": "hager:product.KnobDiameter",
+                    "type": "string"
+                },
+                "projection": {
+                    "cs:feature.key": "hager:product.KnobProjection",
+                    "type": "string"
+                }
+            }
+        },
+        "frameReinforcement": {
+            "cs:feature.key": "hager:product.FrameReinforcement",
+            "type": "string"
+        },
+        "standardLengths": {
+            "cs:feature.key": "hager:product.StandardLengths",
+            "type": "string"
+        },
+        "escutcheonType": {
+            "cs:feature.key": "hager:product.EscutcheonType",
+            "type": "string"
+        },
+        "systemIncludes": {
+            "cs:feature.key": "hager:product.SystemIncludes",
+            "type": "string"
+        },
+        "beveledLipProjection": {
+            "cs:feature.key": "hager:product.BeveledLipProjection",
+            "type": "string"
+        },
+        "colors": {
+            "cs:feature.key": "hager:product.colors",
+            "type": "string"
+        },
+        "LEDIndicators": {
+            "cs:feature.key": "hager:product.LEDIndicators",
+            "type": "string"
+        },
+        "electricalSpecifications": {
+            "cs:feature.key": "hager:product.ElectricalSpecifications",
+            "type": "string"
+        },
+        "standardSize": {
+            "type": "object",
+            "properties": {
+                "length": {
+                    "cs:feature.key": "hager:product.StandardSizeLength",
+                    "type": "string"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.StandardSizeWidth",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.StandardSizeHeight",
+                    "type": "string"
+                }
+            }
+        },
+        "current": {
+            "cs:feature.key": "hager:product.current",
+            "type": "string"
+        },
+        "armBracketBase": {
+            "type": "object",
+            "properties": {
+                "length": {
+                    "cs:feature.key": "hager:product.ArmBracketBaseLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.ArmBracketBaseWidth",
+                    "type": "number"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.ArmBracketBaseHeight",
+                    "type": "number"
+                }
+            }
+        },
+        "topPlate": {
+            "type": "object",
+            "properties": {
+                "length": {
+                    "cs:feature.key": "hager:product.TopPlateLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.TopPlateWidth",
+                    "type": "number"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.TopPlateHeight",
+                    "type": "number"
+                }
+            }
+        },
+        "standardFeatures": {
+            "cs:feature.key": "hager:product.StandardFeatures",
+            "type": "string"
+        },
+        "installation": {
+            "cs:feature.key": "hager:product.Installation",
+            "type": "string"
+        },
+        "handing": {
+            "cs:feature.key": "hager:product.handing",
+            "type": "string"
+        },
+        "replacementKitContains": {
+            "cs:feature.key": "hager:product.ReplacementKitContains",
+            "type": "string"
+        },
+        "clearance": {
+            "cs:feature.key": "hager:product.Clearance",
+            "type": "string"
+        },
+        "finishes": {
+            "cs:feature.key": "hager:product.finishes",
+            "type": "string"
+        },
+        "topFitting": {
+            "cs:feature.key": "hager:product.TopFitting",
+            "type": "string"
+        },
+        "arm": {
+            "cs:feature.key": "hager:product.arm",
+            "type": "string"
+        },
+        "packagequantity": {
+            "cs:feature.key": "hager:product.packagequantity",
+            "type": "number"
+        },
+        "engagedProjection": {
+            "cs:feature.key": "hager:product.EngagedProjection",
+            "type": "string"
+        },
+        "howtoorder": {
+            "cs:feature.key": "hager:product.howtoorder",
+            "type": "string"
+        },
+        "standardMountingFasteners": {
+            "cs:feature.key": "hager:product.StandardMountingFasteners",
+            "type": "string"
+        },
+        "accessories": {
+            "cs:feature.key": "hager:product.accessories",
+            "type": "string"
+        },
+        "strike": {
+            "type": "object",
+            "properties": {
+                "size": {
+                    "cs:feature.key": "hager:product.StrikeSize",
+                    "type": "string"
+                },
+                "strikes": {
+                    "cs:feature.key": "hager:product.Strikes",
+                    "type": "string"
+                },
+                "length": {
+                    "cs:feature.key": "hager:product.StrikeLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.StrikeWidth",
+                    "type": "number"
+                },
+                "projection": {
+                    "cs:feature.key": "hager:product.StrikeProjection",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.StrikeHeight",
+                    "type": "number"
+                },
+                "base": {
+                    "cs:feature.key": "hager:product.StrikeBase",
+                    "type": "string"
+                }
+            }
+        },
+        "strikeLipLength": {
+            "cs:feature.key": "hager:product.StrikeLipLength",
+            "type": "number"
+        },
+        "fastenerHoleQuantity": {
+            "cs:feature.key": "hager:product.FastenerHoleQuantity",
+            "type": "number"
+        },
+        "anchorHousing": {
+            "type": "object",
+            "properties": {
+                "length": {
+                    "cs:feature.key": "hager:product.anchorhousinglength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.anchorhousingwidth",
+                    "type": "number"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.anchorhousingheight",
+                    "type": "number"
+                }
+            }
+        },
+        "escutcheons": {
+            "cs:feature.key": "hager:product.Escutcheons",
+            "type": "string"
+        },
+        "cylindersCores": {
+            "cs:feature.key": "hager:product.CylindersCores",
+            "type": "string"
+        },
+        "gloviaPartNumber": {
+            "cs:feature.key": "hager:product.GloviaPartNumber",
+            "type": "string"
+        },
+        "keyway": {
+            "cs:feature.key": "hager:product.Keyway",
+            "type": "string"
+        },
+        "cupClearance": {
+            "cs:feature.key": "hager:product.CupClearance",
+            "type": "string"
+        },
+        "pull": {
+            "type": "object",
+            "properties": {
+                "CTC": {
+                    "cs:feature.key": "hager:product.PullCTC",
+                    "type": "string"
+                },
+                "diameter": {
+                    "cs:feature.key": "hager:product.PullDiameter",
+                    "type": "string"
+                },
+                "clearance": {
+                    "cs:feature.key": "hager:product.PullClearance",
+                    "type": "string"
+                },
+                "overall": {
+                    "cs:feature.key": "hager:product.PullOverall",
+                    "type": "string"
+                }
+            }
+        },
+        "designFeatures": {
+            "cs:feature.key": "hager:product.DesignFeatures",
+            "type": "string"
+        },
+        "depth": {
+            "cs:feature.key": "hager:product.depth",
+            "type": "string"
+        },
+        "optionalBrackets": {
+            "cs:feature.key": "hager:product.OptionalBrackets",
+            "type": "string"
+        },
+        "fastenersize-machine": {
+            "cs:feature.key": "hager:product.fastenersize-machine",
+            "type": "string"
+        },
+        "productDame": {
+            "cs:feature.key": "hager:product.productname",
+            "type": "string"
+        },
+        "width": {
+            "cs:feature.key": "hager:product.width",
+            "type": "string"
+        },
+        "rose": {
+            "type": "object",
+            "properties": {
+                "diameter": {
+                    "cs:feature.key": "hager:product.RoseDiameter",
+                    "type": "string"
+                },
+                "thickness": {
+                    "cs:feature.key": "hager:product.RoseThickness",
+                    "type": "number"
+                }
+            }
+        },
+        "countryoforigin": {
+            "cs:feature.key": "hager:product.countryoforigin",
+            "type": "string"
+        },
+        "fastenersize": {
+            "cs:feature.key": "hager:product.fastenersize",
+            "type": "string"
+        },
+        "cylinderCutoutDiameter": {
+            "cs:feature.key": "hager:product.CylinderCutoutDiameter",
+            "type": "string"
+        },
+        "pushBar": {
+            "cs:feature.key": "hager:product.PushBar",
+            "type": "string"
+        },
+        "keying": {
+            "cs:feature.key": "hager:product.Keying",
+            "type": "string"
+        },
+        "bottomProjection": {
+            "cs:feature.key": "hager:product.BottomProjection",
+            "type": "string"
+        },
+        "outputs": {
+            "cs:feature.key": "hager:product.outputs",
+            "type": "string"
+        },
+        "door": {
+            "type": "object",
+            "properties": {
+                "thickness": {
+                    "cs:feature.key": "hager:product.doorthickness",
+                    "type": "string"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.DoorWidth",
+                    "type": "number"
+                },
+                "clearance": {
+                    "cs:feature.key": "hager:product.DoorClearance",
+                    "type": "string"
+                },
+                "reinforcement": {
+                    "cs:feature.key": "hager:product.DoorReinforcement",
+                    "type": "string"
+                },
+                "specifications": {
+                    "cs:feature.key": "hager:product.DoorSpecifications",
+                    "type": "string"
+                },
+                "status": {
+                    "cs:feature.key": "hager:product.DoorStatus",
+                    "type": "string"
+                }
+            }
+        },
+        "availableOn": {
+            "cs:feature.value_type": "timestamp",
+            "cs:feature.key": "hager:product.availableon",
+            "type": "string"
+        },
+        "carton": {
+            "type": "object",
+            "properties": {
+                "quantity": {
+                    "cs:feature.key": "hager:product.CartonQuantity",
+                    "type": "string"
+                },
+                "length": {
+                    "cs:feature.key": "hager:product.CartonLength",
+                    "type": "string"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.CartonWidth",
+                    "type": "string"
+                },
+                "weight": {
+                    "cs:feature.key": "hager:product.CartonWeight",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.CartonHeight",
+                    "type": "string"
+                }
+            }
+        },
+        "notes": {
+            "cs:feature.key": "hager:product.notes",
+            "type": "string"
+        },
+        "optionalArms": {
+            "cs:feature.key": "hager:product.OptionalArms",
+            "type": "string"
+        },
+        "thickness": {
+            "cs:feature.key": "hager:product.Thickness",
+            "type": "string"
+        },
+        "deadboltFaceplate": {
+            "type": "object",
+            "properties": {
+                "length": {
+                    "cs:feature.key": "hager:product.DeadboltFaceplateLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.DeadboltFaceplateWidth",
+                    "type": "number"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.DeadboltFaceplateHeight",
+                    "type": "number"
+                }
+            }
+        },
+        "inputs": {
+            "cs:feature.key": "hager:product.Inputs",
+            "type": "string"
+        },
+        "use": {
+            "cs:feature.key": "hager:product.use",
+            "type": "string"
+        },
+        "quantities": {
+            "cs:feature.key": "hager:product.quantities",
+            "type": "number"
+        },
+        "stocknumber": {
+            "cs:feature.key": "hager:product.stocknumber",
+            "type": "string"
+        },
+        "deadlock": {
+            "cs:feature.key": "hager:product.Deadlock",
+            "type": "string"
+        },
+        "body": {
+            "type": "object",
+            "properties": {
+                "thickness": {
+                    "cs:feature.key": "hager:product.BodyThickness",
+                    "type": "string"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.BodyWidth",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.BodyHeight",
+                    "type": "string"
+                }
+            }
+        },
+        "faceplate": {
+            "type": "object",
+            "properties": {
+                "holequantity": {
+                    "cs:feature.key": "hager:product.faceplateholequantity",
+                    "type": "number"
+                },
+                "length": {
+                    "cs:feature.key": "hager:product.faceplatelength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.FaceplateWidth",
+                    "type": "number"
+                },
+                "faceplate": {
+                    "cs:feature.key": "hager:product.faceplate",
+                    "type": "string"
+                },
+                "type": {
+                    "cs:feature.key": "hager:product.faceplatetype",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.faceplateheight",
+                    "type": "number"
+                }
+            }
+        },
+        "specifications": {
+            "cs:feature.key": "hager:product.specifications",
+            "type": "string"
+        },
+        "frequency": {
+            "cs:feature.key": "hager:product.frequency",
+            "type": "string"
+        },
+        "features": {
+            "cs:feature.key": "hager:product.features",
+            "type": "string"
+        },
+        "currentDraw": {
+            "cs:feature.key": "hager:product.CurrentDraw",
+            "type": "string"
+        },
+        "pin": {
+            "type": "object",
+            "properties": {
+                "diameter": {
+                    "cs:feature.key": "hager:product.PinDiameter",
+                    "type": "string"
+                },
+                "type": {
+                    "cs:feature.key": "hager:product.PinType",
+                    "type": "string"
+                }
+            }
+        },
+        "diameter": {
+            "cs:feature.key": "hager:product.diameter",
+            "type": "string"
+        },
+        "totalProjection": {
+            "cs:feature.key": "hager:product.TotalProjection",
+            "type": "string"
+        },
+        "fastenersizes-HeadCamBox": {
+            "cs:feature.key": "hager:product.fastenersizes-HeadCamBox",
+            "type": "string"
+        },
+        "batteryBackupOption": {
+            "cs:feature.key": "hager:product.BatteryBackupOption",
+            "type": "string"
+        },
+        "maximumOpening": {
+            "cs:feature.key": "hager:product.MaximumOpening",
+            "type": "string"
+        },
+        "maximumDoor": {
+            "type": "object",
+            "properties": {
+                "thickness": {
+                    "cs:feature.key": "hager:product.maximumdoorthickness",
+                    "type": "string"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.MaximumDoorWidth",
+                    "type": "string"
+                },
+                "length": {
+                    "cs:feature.key": "hager:product.maximumdoorlength",
+                    "type": "string"
+                },
+                "weight": {
+                    "cs:feature.key": "hager:product.maximumdoorweight",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.maximumdoorheight",
+                    "type": "string"
+                }
+            }
+        },
+        "operatingTemperature": {
+            "cs:feature.key": "hager:product.OperatingTemperature",
+            "type": "string"
+        },
+        "electricmodifications": {
+            "cs:feature.key": "hager:product.electricmodifications",
+            "type": "string"
+        },
+        "batteryCharger": {
+            "cs:feature.key": "hager:product.BatteryCharger",
+            "type": "string"
+        },
+        "armsAndAssemblies": {
+            "cs:feature.key": "hager:product.ArmsandAssemblies",
+            "type": "string"
+        },
+        "offset": {
+            "cs:feature.key": "hager:product.offset",
+            "type": "string"
+        },
+        "lockBody": {
+            "type": "object",
+            "properties": {
+                "length": {
+                    "cs:feature.key": "hager:product.LockBodyLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.LockBodyWidth",
+                    "type": "number"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.LockBodyHeight",
+                    "type": "number"
+                }
+            }
+        },
+        "weight": {
+            "cs:feature.$unit_set": "censhare:weight",
+            "cs:feature.$unit_property": "unit",
+            "cs:feature.$value_property": "value",
+            "cs:feature.key": "hager:product.weight",
+            "type": "object",
+            "properties": {
+                "unit": {
+                    "type": "string"
+                },
+                "value": {
+                    "type": "number"
+                }
+            }
+        },
+        "includes": {
+            "cs:feature.key": "hager:product.Includes",
+            "type": "string"
+        },
+        "productNumber": {
+            "cs:feature.key": "hager:product.productnumber",
+            "type": "string"
+        },
+        "availableSizes": {
+            "cs:feature.key": "hager:product.AvailableSizes",
+            "type": "string"
+        },
+        "maximumDegreeofSwing": {
+            "cs:feature.key": "hager:product.MaximumDegreeofSwing",
+            "type": "string"
+        },
+        "lengthOptions": {
+            "cs:feature.key": "hager:product.LengthOptions",
+            "type": "string"
+        },
+        "armorFront": {
+            "type": "object",
+            "properties": {
+                "length": {
+                    "cs:feature.key": "hager:product.ArmorFrontLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.ArmorFrontWidth",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.ArmorFrontHeight",
+                    "type": "string"
+                }
+            }
+        },
+        "mountingStyle": {
+            "cs:feature.key": "hager:product.MountingStyle",
+            "type": "string"
+        },
+        "loadCapacity": {
+            "cs:feature.key": "hager:product.LoadCapacity",
+            "type": "string"
+        },
+        "moduleOptions": {
+            "cs:feature.key": "hager:product.ModuleOptions",
+            "type": "string"
+        },
+        "bolt": {
+            "type": "object",
+            "properties": {
+                "diameter": {
+                    "cs:feature.key": "hager:product.BoltDiameter",
+                    "type": "string"
+                },
+                "backset": {
+                    "cs:feature.key": "hager:product.BoltBackset",
+                    "type": "number"
+                },
+                "throw": {
+                    "cs:feature.key": "hager:product.BoltThrow",
+                    "type": "string"
+                },
+                "length": {
+                    "cs:feature.key": "hager:product.BoltLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.BoltWidth",
+                    "type": "number"
+                },
+                "bolt": {
+                    "cs:feature.key": "hager:product.Bolt",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.BoltHeight",
+                    "type": "number"
+                }
+            }
+        },
+        "bumper": {
+            "type": "object",
+            "properties": {
+                "diameter": {
+                    "cs:feature.key": "hager:product.BumperDiameter",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.BumperHeight",
+                    "type": "string"
+                }
+            }
+        },
+        "optionalFeatures": {
+            "cs:feature.key": "hager:product.OptionalFeatures",
+            "type": "string"
+        },
+        "leverOptions": {
+            "cs:feature.key": "hager:product.LeverOptions",
+            "type": "string"
+        },
+        "backsets": {
+            "cs:feature.key": "hager:product.Backsets",
+            "type": "number"
+        },
+        "keys": {
+            "cs:feature.key": "hager:product.keys",
+            "type": "string"
+        },
+        "pocketApplications": {
+            "cs:feature.key": "hager:product.PocketApplications",
+            "type": "string"
+        },
+        "websitenote": {
+            "cs:feature.key": "hager:product.websitenote",
+            "type": "string"
+        },
+        "box": {
+            "type": "object",
+            "properties": {
+                "quantity": {
+                    "cs:feature.key": "hager:product.boxquantity",
+                    "type": "string"
+                },
+                "length": {
+                    "cs:feature.key": "hager:product.boxlength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.boxwidth",
+                    "type": "number"
+                },
+                "weight": {
+                    "cs:feature.$unit_set": "censhare:weight",
+                    "cs:feature.$unit_property": "unit",
+                    "cs:feature.$value_property": "value",
+                    "cs:feature.key": "hager:product.boxweight",
+                    "type": "object",
+                    "properties": {
+                        "unit": {
+                            "type": "string"
+                        },
+                        "value": {
+                            "type": "number"
+                        }
+                    }
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.boxheight",
+                    "type": "number"
+                }
+            }
+        },
+        "exposedTrim": {
+            "cs:feature.key": "hager:product.ExposedTrim",
+            "type": "string"
+        },
+        "functionsSelection": {
+            "cs:feature.key": "hager:product.FunctionsSelection",
+            "type": "string"
+        },
+        "units": {
+            "cs:feature.key": "hager:product.Units",
+            "type": "string"
+        },
+        "armLength": {
+            "cs:feature.key": "hager:product.ArmLength",
+            "type": "number"
+        },
+        "barrelPlungerDiameter": {
+            "cs:feature.key": "hager:product.BarrelPlungerDiameter",
+            "type": "string"
+        },
+        "holdingForce": {
+            "cs:feature.key": "hager:product.HoldingForce",
+            "type": "string"
+        },
+        "fastenersizes-FloorCamBox": {
+            "cs:feature.key": "hager:product.fastenersizes-FloorCamBox",
+            "type": "string"
+        },
+        "coverColors": {
+            "cs:feature.key": "hager:product.CoverColors",
+            "type": "string"
+        },
+        "additionalOptions": {
+            "cs:feature.key": "hager:product.additionaloptions",
+            "type": "string"
+        },
+        "firerating": {
+            "cs:feature.key": "hager:product.firerating",
+            "type": "string"
+        },
+        "fastenersizes-DoorMountBrackets": {
+            "cs:feature.key": "hager:product.fastenersizes-DoorMountBrackets",
+            "type": "string"
+        },
+        "knuckles": {
+            "cs:feature.key": "hager:product.Knuckles",
+            "type": "string"
+        },
+        "construction": {
+            "cs:feature.key": "hager:product.construction",
+            "type": "string"
+        },
+        "projection": {
+            "cs:feature.key": "hager:product.projection",
+            "type": "string"
+        },
+        "track": {
+            "type": "object",
+            "properties": {
+                "length": {
+                    "cs:feature.key": "hager:product.TrackLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.TrackWidth",
+                    "type": "number"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.TrackHeight",
+                    "type": "number"
+                }
+            }
+        },
+        "operationalFunctionality": {
+            "cs:feature.key": "hager:product.OperationalFunctionality",
+            "type": "string"
+        },
+        "holecount": {
+            "cs:feature.key": "hager:product.holecount",
+            "type": "number"
+        },
+        "shims": {
+            "cs:feature.key": "hager:product.Shims",
+            "type": "string"
+        },
+        "headerLengths": {
+            "cs:feature.key": "hager:product.HeaderLengths",
+            "type": "number"
+        },
+        "shackle": {
+            "type": "object",
+            "properties": {
+                "diameter": {
+                    "cs:feature.key": "hager:product.ShackleDiameter",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.ShackleHeight",
+                    "type": "string"
+                }
+            }
+        },
+        "standardDoorPrep": {
+            "cs:feature.key": "hager:product.StandardDoorPrep",
+            "type": "string"
+        },
+        "length": {
+            "cs:feature.key": "hager:product.length",
+            "type": "string"
+        },
+        "programmableFunctionality": {
+            "cs:feature.key": "hager:product.ProgrammableFunctionality",
+            "type": "string"
+        },
+        "packaging": {
+            "cs:feature.key": "hager:product.Packaging",
+            "type": "string"
+        },
+        "certifications": {
+            "cs:feature.key": "hager:product.certifications",
+            "type": "string"
+        },
+        "pushandPullLevers": {
+            "cs:feature.key": "hager:product.PushandPullLevers",
+            "type": "string"
+        },
+        "voltage": {
+            "cs:feature.key": "hager:product.Voltage",
+            "type": "string"
+        },
+        "environment": {
+            "cs:feature.key": "hager:product.Environment",
+            "type": "string"
+        },
+        "CTC": {
+            "type": "object",
+            "properties": {
+                "CTC": {
+                    "cs:feature.key": "hager:product.CTC",
+                    "type": "string"
+                },
+                "length": {
+                    "cs:feature.key": "hager:product.CTCLength",
+                    "type": "string"
+                }
+            }
+        },
+        "includedFeatures": {
+            "cs:feature.key": "hager:product.IncludedFeatures",
+            "type": "string"
+        },
+        "material": {
+            "cs:feature.key": "hager:product.material",
+            "type": "string"
+        },
+        "fasteners": {
+            "cs:feature.key": "hager:product.fasteners",
+            "type": "string"
+        },
+        "deadbolt": {
+            "cs:feature.key": "hager:product.Deadbolt",
+            "type": "string"
+        },
+        "optionalFinish": {
+            "cs:feature.key": "hager:product.OptionalFinish",
+            "type": "string"
+        },
+        "latchboltType": {
+            "cs:feature.key": "hager:product.LatchboltType",
+            "type": "string"
+        },
+        "T-Strike": {
+            "cs:feature.key": "hager:product.T-Strike",
+            "type": "string"
+        },
+        "SFICCylinderLength": {
+            "cs:feature.key": "hager:product.SFICCylinderLength",
+            "type": "string"
+        },
+        "applications": {
+            "cs:feature.key": "hager:product.applications",
+            "type": "string"
+        },
+        "base": {
+            "type": "object",
+            "properties": {
+                "diameter": {
+                    "cs:feature.key": "hager:product.BaseDiameter",
+                    "type": "string"
+                },
+                "thickness": {
+                    "cs:feature.key": "hager:product.BaseThickness",
+                    "type": "number"
+                },
+                "ofCenterToRail": {
+                    "cs:feature.key": "hager:product.BaseOfCenterToRail",
+                    "type": "string"
+                },
+                "length": {
+                    "cs:feature.key": "hager:product.BaseLength",
+                    "type": "number"
+                },
+                "width": {
+                    "cs:feature.key": "hager:product.BaseWidth",
+                    "type": "number"
+                },
+                "projection": {
+                    "cs:feature.key": "hager:product.BaseProjection",
+                    "type": "string"
+                },
+                "height": {
+                    "cs:feature.key": "hager:product.BaseHeight",
+                    "type": "number"
+                }
+            }
+        }
+    }
+}

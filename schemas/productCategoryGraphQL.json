@@ -1,0 +1,173 @@
+curl -s https://onlinechannel.hagerco.com/hcms/v1.11/graphql -X POST -H 'Content-Type: application/json' --data-binary '{"query":"{productCategorys(query:\"parent=13893\") {count,total_count,result{id, name, parent {id, name}, children{id,name}}}}"}'
+productCategories(query:\"productCategories\"){
+    result{
+
+{
+    "data": {
+        "productCategorys": {
+            "count": 14,
+            "result": [{
+                "name": "Key Switches",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30078,
+                "children": [{
+                    "name": "29KS",
+                    "id": 30079
+                }]
+            }, {
+                "name": "Power Supplies",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30084,
+                "children": []
+            }, {
+                "name": "Battery Backups",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30097,
+                "children": []
+            }, {
+                "name": "Modules",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30100,
+                "children": []
+            }, {
+                "name": "Exit Switches",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30113,
+                "children": []
+            }, {
+                "name": "Keypads",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30130,
+                "children": [{
+                    "name": "2915",
+                    "id": 30131
+                }]
+            }, {
+                "name": "Electric Strikes",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30154,
+                "children": [{
+                    "name": "2930",
+                    "id": 30169
+                }]
+            }, {
+                "name": "Magnetic Locks",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30186,
+                "children": [{
+                    "name": "2954",
+                    "id": 30312
+                }, {
+                    "name": "2953",
+                    "id": 30308
+                }, {
+                    "name": "2952",
+                    "id": 30304
+                }, {
+                    "name": "2951",
+                    "id": 30300
+                }]
+            }, {
+                "name": "Pressure Release Bars",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30316,
+                "children": [{
+                    "name": "4801",
+                    "id": 30317
+                }]
+            }, {
+                "name": "Power Transfer",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30321,
+                "children": []
+            }, {
+                "name": "Delayed Egress",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30336,
+                "children": []
+            }, {
+                "name": "Emergency Release",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30341,
+                "children": []
+            }, {
+                "name": "Low Energy Power Operators",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30344,
+                "children": [{
+                    "name": "8221",
+                    "id": 30473
+                }, {
+                    "name": "8219",
+                    "id": 30469
+                }, {
+                    "name": "8218",
+                    "id": 30461
+                }, {
+                    "name": "8422",
+                    "id": 30367
+                }, {
+                    "name": "8421",
+                    "id": 30363
+                }, {
+                    "name": "8420",
+                    "id": 30357
+                }, {
+                    "name": "8419",
+                    "id": 30351
+                }, {
+                    "name": "8418",
+                    "id": 30345
+                }]
+            }, {
+                "name": "ADA Actuators & Bollards",
+                "parent": {
+                    "name": "Electrified",
+                    "id": 13893
+                },
+                "id": 30477,
+                "children": []
+            }],
+            "total_count": 14
+        }
+    }
+}

@@ -1,0 +1,9 @@
+// See https://aka.ms/vscode-remote/devcontainer.json for format details.
+{
+    "dockerFile": "Dockerfile",
+    "forwardPorts": ["5000:5000"],
+	"extensions": [],
+    "containerEnv": {
+        "REACT_APP_GMAPS_API_KEY": "",
+    }
+}

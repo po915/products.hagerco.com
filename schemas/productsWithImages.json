@@ -1,0 +1,172 @@
+'Content-Type: application/json'--data - binary ' {
+        "query": "{
+        products(query: \"productItems.@productItem.images\")  {
+                count,
+                total_count,
+                result {
+                    id,
+                    name,
+                    categories {
+                        id,
+                        name
+                    },
+                    price {
+                        value
+                    },
+                    productDescription,
+                    productItems {
+                        id,
+                        name,
+                        images {
+                            id,
+                            downloadLink,
+                            mime
+                        }
+                    },
+                    mainImage {
+                        id,
+                        downloadLink
+                    }
+                }
+            }
+        }
+        "}'
+        {
+            productCategories
+            result {
+                name,
+                id,
+                children {
+                    name,
+                    id
+                }
+            }
+
+        }
+        {
+            "data": {
+                "products": {
+                    "count": 6,
+                    "result": [{
+                        "name": "3800U-20H",
+                        "id": 38040,
+                        "categories": [{
+                            "name": "Locking Hardware",
+                            "id": 38039
+                        }],
+                        "productItems": [{
+                            "name": "3800U-20H US32D 3800UH32DN0N",
+                            "images": [{
+                                "downloadLink": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/38504/storage/MDM4NTA0LzAvbWFzdGVy",
+                                "id": 38504,
+                                "mime": "image/jpeg"
+                            }],
+                            "id": 38041
+                        }],
+                        "productDescription": "Sliding Door Mortise Lock"
+                    }, {
+                        "name": "3800U-55F",
+                        "id": 38048,
+                        "categories": [{
+                            "name": "Locking Hardware",
+                            "id": 38039
+                        }],
+                        "productItems": [{
+                            "name": "3800U-55F US32D 3800UF32DRAN0000C",
+                            "images": [{
+                                "downloadLink": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/38503/storage/MDM4NTAzLzAvbWFzdGVy",
+                                "id": 38503,
+                                "mime": "image/jpeg"
+                            }],
+                            "id": 38049
+                        }],
+                        "productDescription": "Deadbolt Mortise Lock\nCE: 3X510F3BC00\nCertiFire: CF5283"
+                    }, {
+                        "name": "3800U-55L",
+                        "id": 38050,
+                        "categories": [{
+                            "name": "Locking Hardware",
+                            "id": 38039
+                        }],
+                        "productItems": [{
+                            "name": "3800U-55L US32D 3800UL32DRAN0000C",
+                            "images": [{
+                                "downloadLink": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/38505/storage/MDM4NTA1LzAvbWFzdGVy",
+                                "id": 38505,
+                                "mime": "image/jpeg"
+                            }],
+                            "id": 38051
+                        }],
+                        "productDescription": "Latch Mortise Lock\nCE: 3X510F-B020\nCertiFire: CF5283"
+                    }, {
+                        "name": "3800U-55M",
+                        "id": 38052,
+                        "categories": [{
+                            "name": "Locking Hardware",
+                            "id": 38039
+                        }],
+                        "productItems": [{
+                            "name": "3800U-55M US32D 3800UM32DRAN0000C",
+                            "images": [{
+                                "downloadLink": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/38506/storage/MDM4NTA2LzAvbWFzdGVy",
+                                "id": 38506,
+                                "mime": "image/jpeg"
+                            }],
+                            "id": 38053
+                        }],
+                        "productDescription": "Nightlatch Mortise Lock\nCE: 3X510F-B020\nCertiFire: CF5283\nRequires 2-669-0732 Half Spindle"
+                    }, {
+                        "name": "5100",
+                        "id": 25806,
+                        "categories": [{
+                            "name": "Grade 1 Heavy Duty Closer",
+                            "id": 25805
+                        }],
+                        "productItems": [{
+                            "name": "5100 ALM 5100M16ALM",
+                            "images": [{
+                                "downloadLink": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/37895/storage/MDM3ODk1LzAvbWFzdGVy",
+                                "id": 37895,
+                                "mime": "image/png"
+                            }],
+                            "id": 25807
+                        }, {
+                            "name": "5100 GOL 5100M16GOL",
+                            "images": [],
+                            "id": 25810
+                        }, {
+                            "name": "5100 BRZ 5100M16BRZ",
+                            "images": [],
+                            "id": 25809
+                        }, {
+                            "name": "5100 DBZ 5100M16DBZ",
+                            "images": [{
+                                "downloadLink": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/37901/storage/MDM3OTAxLzAvbWFzdGVy",
+                                "id": 37901,
+                                "mime": "image/png"
+                            }],
+                            "id": 25808
+                        }],
+                        "price": {
+                            "value": 315.65
+                        },
+                        "productDescription": "To maximize hinge life and assist in achieving ADA compliance, Hager recommends the use of anti-friction or ball bearing hinges with our door closer products."
+                    }, {
+                        "name": "3800U-55D",
+                        "id": 38046,
+                        "categories": [{
+                            "name": "Locking Hardware",
+                            "id": 38039
+                        }],
+                        "productItems": [{
+                            "name": "3800U-55D US32D 3800UD32DR0N",
+                            "images": [{
+                                "downloadLink": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/38502/storage/MDM4NTAyLzAvbWFzdGVy",
+                                "id": 38502,
+                                "mime": "image/jpeg"
+                            }],
+                            "id": 38047
+                        }],
+                        "productDescription": "Deadbolt Small Mortise Lock"
+                    }],
+                    "total_count": 6

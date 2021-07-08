@@ -1,0 +1,1754 @@
+{
+    "result": [{
+        "name": "Test Product",
+        "id": 13874
+    }, {
+        "electricmodifications": "EMN  (Electric Monitor Only), ETW  (Electric Through-Wire Only), ETM  (Electric Through-Wire with Monitoring), Quick Connect",
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/38811"],
+        "notes": "Available with reversible hole pattern",
+        "use": "For use on medium weight doors or doors requiring medium frequency service",
+        "websitenote": "Ball Bearing - Standard Weight",
+        "length": "3.5",
+        "productNumber": "BB1279",
+        "certifications": "ANSI A8112",
+        "gloviaPartNumber": "1279B00350035LS0",
+        "fastenersize-wood": "1 x 9",
+        "mainImage": {
+            "preview": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/product/13992/storage/MTM5OTkvMC9wcmV2aWV3",
+            "thumbnail": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/product/13992/storage/MDEzOTk5LzAvdGh1bWJuYWls",
+            "id": 13999,
+            "master": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/product/13992/storage/MDEzOTk5LzAvbWFzdGVy"
+        },
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27774", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27773", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27776", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27775", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27770", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27769", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27772", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27771", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27778", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27777", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27763", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27762", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27765", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27764", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27759", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27761", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27760", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27767", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27766", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27768", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/32533", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27790", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27789", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27796", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27795", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27798", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27797", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/32531", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27792", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/32532", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27791", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27794", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/32530", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27793", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27779", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27785", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27784", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27787", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27786", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27731", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27781", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27780", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27783", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27782", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27738", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27737", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27734", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27788", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27733", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27736", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27735", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27810", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27809", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27812", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27811", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27818", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27817", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27814", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27813", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27849", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27816", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27815", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27799", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27801", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27800", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27840", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27807", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27839", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27806", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27842", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27841", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27808", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27803", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27802", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27805", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27804", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27848", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27847", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27844", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27843", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27846", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27845", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27832", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27831", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27834", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27833", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27830", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27829", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27752", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27751", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27754", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27753", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27836", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27835", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27838", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27750", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27837", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27749", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27756", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27755", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27758", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27757", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27821", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27820", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27823", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27822", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27819", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27741", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27828", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27740", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27743", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27742", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27825", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27824", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27827", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27739", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27826", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27748", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27745", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27744", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27747", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27730", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27746", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/27732"],
+        "fastenersize-machine": "1/2 x 10-24",
+        "productDame": "BB1279",
+        "material": "Steel with Steel pin",
+        "specialnote2": "Available with reversible hole pattern",
+        "specialnote1": "Steel, Full Mortise, Standard Weight, Ball Bearing",
+        "knuckles": "5",
+        "name": "BB1279",
+        "width": "3.5",
+        "finishes": "LS",
+        "id": 13992
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25310", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25311", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25308", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25367", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25309", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25368", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25306", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25366", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25312", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25365", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25307", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25305"],
+        "productDame": "SNB Fastener Pack, 1-3/4\" Door",
+        "price": {
+            "value": 9.6
+        },
+        "name": "5902",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25304,
+        "categories": [25303],
+        "productNumber": "5902",
+        "case": {
+            "quantity": "200"
+        },
+        "productDescription": "SNB Fastener Pack, 1-3/4\" Door"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25351", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25350", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25349", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25348", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25347", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25346", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25345", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25344", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25343", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25342", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25341", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25314"],
+        "productDame": "SNB Fastener Pack, 2\" Door",
+        "price": {
+            "value": 9.6
+        },
+        "name": "5904",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25313,
+        "categories": [25303],
+        "productNumber": "5904",
+        "case": {
+            "quantity": "200"
+        },
+        "productDescription": "SNB Fastener Pack, 2\" Door"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25327", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25326", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25325", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25324", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25323", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25322", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25321", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25320", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25319", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25318", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25317", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25316"],
+        "productDame": "Blade Stop Spacer",
+        "price": {
+            "value": 25.55
+        },
+        "name": "5913",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25315,
+        "categories": [25303],
+        "productNumber": "5913",
+        "case": {
+            "quantity": "15"
+        },
+        "productDescription": "Blade Stop Spacer"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25340", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25339", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25338", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25337", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25336", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25335", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25334", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25333", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25332", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25331", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25330", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25329"],
+        "productDame": "SNB Fastener Pack, 2-1/4\" Door",
+        "price": {
+            "value": 9.6
+        },
+        "name": "5905",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25328,
+        "categories": [25303],
+        "productNumber": "5905",
+        "case": {
+            "quantity": "200"
+        },
+        "productDescription": "SNB Fastener Pack, 2-1/4\" Door"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25940", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25939", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25938", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25937", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25364", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25363", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25362", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25361", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25360", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25359", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25358", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25357", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25356", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25355", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25354", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25353"],
+        "productDame": "SNB Fastener Pack, 1-3/8\" Door",
+        "price": {
+            "value": 9.6
+        },
+        "name": "5903",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25352,
+        "categories": [25303],
+        "productNumber": "5903",
+        "case": {
+            "quantity": "200"
+        },
+        "productDescription": "SNB Fastener Pack, 1-3/8\" Door"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25379", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25381", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25380", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25378", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25377", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25376", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25375", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25374", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25373", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25372", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25371", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25370"],
+        "productDame": "Parallel Arm Bracket",
+        "price": {
+            "value": 8.4
+        },
+        "name": "5900",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25369,
+        "categories": [25303],
+        "productNumber": "5900",
+        "case": {
+            "quantity": "120"
+        },
+        "productDescription": "Parallel Arm Bracket"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25391", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25390", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25389", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25388", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25387", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25386", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25385", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25384"],
+        "productDame": "Long Rod and Shoe",
+        "price": {
+            "value": 16.65
+        },
+        "name": "5908",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25383,
+        "categories": [25382],
+        "productNumber": "5908",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Long Rod and Shoe"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25400", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25399", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25398", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25397", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25396", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25395", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25394", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25393"],
+        "productDame": "Hold Open Parallel Arm Bracket",
+        "price": {
+            "value": 16.65
+        },
+        "specialnote1": "For standard hold-open arm.",
+        "name": "5914",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25392,
+        "categories": [25382],
+        "productNumber": "5914",
+        "case": {
+            "quantity": "60"
+        },
+        "productDescription": "Hold Open Parallel Arm Bracket"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25409", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25408", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25407", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25406", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25405", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25404", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25403", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25402"],
+        "productDame": "Extra Clearance Bracket",
+        "price": {
+            "value": 21.85
+        },
+        "name": "5936",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25401,
+        "categories": [25382],
+        "productNumber": "5936",
+        "case": {
+            "quantity": "48"
+        },
+        "productDescription": "Extra Clearance Bracket"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25419", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25418", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25417", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25416", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25415", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25414", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25413", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25412"],
+        "productDame": "Pinion Cap",
+        "price": {
+            "value": 1.9
+        },
+        "name": "5901",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25411,
+        "categories": [25410],
+        "productNumber": "5901",
+        "case": {
+            "quantity": "200"
+        },
+        "productDescription": "Pinion Cap"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25433", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25432", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25431", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25430", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25429", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25428", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25427", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25426", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25425", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25424", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25423", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25422"],
+        "productDame": "Spring Cushion Kit",
+        "price": {
+            "value": 121.45
+        },
+        "name": "5950",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25421,
+        "categories": [25420],
+        "productNumber": "5950",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Spring Cushion Kit"
+    }, {
+        "notes": "Standard package contains standard screw pack, 5900 parallel arm bracket, and 5902 SNB screw pack for 1-3/4\" (44 mm) door\nPrecision machined, heat treated steel piston\nTriple heat treated steel spindle",
+        "box": {
+            "quantity": "1"
+        },
+        "productNumber": "5400 Series - Size 3",
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25440", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25439", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25438", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25437"],
+        "productDame": "Grade 2 Standard Duty Surface Door Closer - Size 3",
+        "price": {
+            "value": 116.8
+        },
+        "name": "5400 Series - Size 3",
+        "handing": "Non-handed",
+        "warranty": "Five-year",
+        "id": 25436,
+        "categories": [25435],
+        "case": {
+            "quantity": "6"
+        },
+        "productDescription": "To maximize hinge life and assist in achieving ADA compliance, Hager recommends the use of anti-friction or ball bearing hinges with our door closer products.",
+        "applications": "Ideal for light duty commercial applications"
+    }, {
+        "notes": "Standard package contains standard screw pack, 5900 parallel arm bracket, and 5902 SNB screw pack for 1-3/4\" (44 mm) door\nPrecision machined, heat treated steel piston\nTriple heat treated steel spindle",
+        "box": {
+            "quantity": "1"
+        },
+        "productNumber": "5400 Series -Size 4",
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25445", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25444", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25443", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25442"],
+        "productDame": "Grade 2 Standard Duty Surface Door Closer - Size 4",
+        "price": {
+            "value": 116.8
+        },
+        "name": "5400 Series -Size 4",
+        "handing": "Non-handed",
+        "warranty": "Five-year",
+        "id": 25441,
+        "categories": [25435],
+        "case": {
+            "quantity": "6"
+        },
+        "productDescription": "To maximize hinge life and assist in achieving ADA compliance, Hager recommends the use of anti-friction or ball bearing hinges with our door closer products.",
+        "applications": "Ideal for light duty commercial applications"
+    }, {
+        "notes": "Standard package contains standard screw pack, 5900 parallel arm bracket, and 5902 SNB screw pack for 1-3/4\" (44 mm) door\nPrecision machined, heat treated steel piston\nTriple heat treated steel spindle",
+        "box": {
+            "quantity": "1"
+        },
+        "productNumber": "5400 Series -Size 5",
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25450", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25449", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25448", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25447"],
+        "productDame": "Grade 2 Standard Duty Surface Door Closer - Size 5",
+        "price": {
+            "value": 116.8
+        },
+        "name": "5400 Series -Size 5",
+        "handing": "Non-handed",
+        "warranty": "Five-year",
+        "id": 25446,
+        "categories": [25435],
+        "case": {
+            "quantity": "6"
+        },
+        "productDescription": "To maximize hinge life and assist in achieving ADA compliance, Hager recommends the use of anti-friction or ball bearing hinges with our door closer products.",
+        "applications": "Ideal for light duty commercial applications"
+    }, {
+        "notes": "Standard package contains standard screw pack, 5900 parallel arm bracket, and 5902 SNB screw pack for 1-3/4\" (44 mm) door\nPrecision machined, heat treated steel piston\nTriple heat treated steel spindle",
+        "box": {
+            "quantity": "1"
+        },
+        "productNumber": "5400 Series - Size 2",
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25455", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25454", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25453", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25452"],
+        "productDame": "Grade 2 Standard Duty Surface Door Closer - Size 2",
+        "price": {
+            "value": 116.8
+        },
+        "name": "5400 Series - Size 2",
+        "handing": "Non-handed",
+        "warranty": "Five-year",
+        "id": 25451,
+        "categories": [25435],
+        "case": {
+            "quantity": "6"
+        },
+        "productDescription": "To maximize hinge life and assist in achieving ADA compliance, Hager recommends the use of anti-friction or ball bearing hinges with our door closer products.",
+        "applications": "Ideal for light duty commercial applications"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25461", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25460", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25459", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25458"],
+        "productDame": "Main Arm",
+        "price": {
+            "value": 29.45
+        },
+        "name": "5403",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25457,
+        "categories": [25456],
+        "productNumber": "5403",
+        "case": {
+            "quantity": "8"
+        },
+        "productDescription": "Main Arm Assembly"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25484", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25483", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25482", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25479", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25475", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25474", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25473", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25472", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25471", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25470", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25469", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25468", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25467", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25466", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25465", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25464"],
+        "productDame": "Closer Body",
+        "price": {
+            "value": 89.85
+        },
+        "name": "5401",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25463,
+        "categories": [25462],
+        "productNumber": "5401",
+        "case": {
+            "quantity": "6"
+        },
+        "productDescription": "5400 Series Closer Body Only\nSize 5"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25481", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25480", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25478", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25477"],
+        "productDame": "Standard Fastener Pack",
+        "price": {
+            "value": 9.15
+        },
+        "name": "5404",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25476,
+        "categories": [25462],
+        "productNumber": "5404",
+        "case": {
+            "quantity": "80"
+        },
+        "productDescription": "Standard Fastener Pack"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26042", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26041", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26040", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26039", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25495", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25494", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25493", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25492", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25491", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25490", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25489", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25488"],
+        "productDame": "Extra Heavy Duty Hold Open Stop Arm",
+        "price": {
+            "value": 180.7
+        },
+        "specialnote1": "Can be combined with 5950, spring cushion kit.",
+        "name": "5906",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25487,
+        "categories": [25486],
+        "productNumber": "5906",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Hold Open Stop Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26080", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26058", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26044", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26043", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25944", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25943", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25942", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25941", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25504", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25503", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25502", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25501", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25500", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25499", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25498", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25497"],
+        "productDame": "Extra Heavy Duty Stop Arm",
+        "price": {
+            "value": 90.5
+        },
+        "specialnote1": "Can be combined with 5950, spring cushion kit.",
+        "name": "5907",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25496,
+        "categories": [25486],
+        "productNumber": "5907",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Stop Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26085", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26084", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26083", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26082", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26056", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26055", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26054", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26053", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25966", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25965", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25961", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25960", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25957", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25956", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25947", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25946", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25513", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25512", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25511", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25510", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25509", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25508", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25507", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25506"],
+        "productDame": "Extra Heavy Duty Hold Open Arm",
+        "price": {
+            "value": 90.5
+        },
+        "specialnote1": "Specify handing when ordering.",
+        "name": "5912",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25505,
+        "categories": [25486],
+        "productNumber": "5912",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Hold Open Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26081", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26079", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26052", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/26049", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25959", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25958", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25951", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25945", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25522", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25521", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25520", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25519", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25518", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25517", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25516", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25515"],
+        "productDame": "Extra Heavy Duty Arm",
+        "price": {
+            "value": 90.5
+        },
+        "name": "5911",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25514,
+        "categories": [25486],
+        "productNumber": "5911",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25963", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25954", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25953", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25952", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25531", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25530", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25529", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25528", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25527", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25526", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25525", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25524"],
+        "productDame": "Extra Heavy Duty Hold Open Cushion Stop Arm",
+        "price": {
+            "value": 253.85
+        },
+        "name": "5956",
+        "includes": "Includes 5906 and 5950.",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25523,
+        "categories": [25486],
+        "productNumber": "5956",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Hold Open Cushion Stop Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25964", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25962", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25949", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25948", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25540", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25539", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25538", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25537", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25536", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25535", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25534", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25533"],
+        "productDame": "Extra Heavy Duty Cushion Stop Arm",
+        "price": {
+            "value": 218.45
+        },
+        "name": "5957",
+        "includes": "Includes 5907 and 5950.",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25532,
+        "categories": [25486],
+        "productNumber": "5957",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Cushion Stop Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25544"],
+        "productDame": "Drilling Fixture",
+        "price": {
+            "value": 50
+        },
+        "name": "381D",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25543,
+        "categories": [25542],
+        "productNumber": "381D",
+        "case": {
+            "quantity": "1"
+        },
+        "productDescription": "Drilling Fixture"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25563", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25562", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25561", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25560", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25559", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25558", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25557", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25556", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25555", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25554", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25553", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25552", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25551", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25550", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25549", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25548", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25547", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25546"],
+        "productDame": "Extension Rods",
+        "price": {
+            "value": 16.95
+        },
+        "name": "381E",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25545,
+        "categories": [25542],
+        "productNumber": "381E",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Extension Rods"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25573", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25572", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25571", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25570", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25569", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25568", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25567", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25566", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25565"],
+        "productDame": "Adjustable Extension Rods",
+        "price": {
+            "value": 20.85
+        },
+        "name": "381A",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25564,
+        "categories": [25542],
+        "productNumber": "381A",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Adjustable Extension Rods"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25577", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25576", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25575"],
+        "productDame": "Catch Plate Assembly",
+        "price": {
+            "value": 64.8
+        },
+        "name": "381S",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25574,
+        "categories": [25542],
+        "productNumber": "381S",
+        "case": {
+            "quantity": "50"
+        },
+        "productDescription": "Catch Plate Assembly"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25581", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25580", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25579"],
+        "productDame": "Surface Back Box",
+        "price": {
+            "value": 38.9
+        },
+        "name": "381B",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25578,
+        "categories": [25542],
+        "productNumber": "381B",
+        "case": {
+            "quantity": "50"
+        },
+        "productDescription": "Surface Back Box"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25585", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25584", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25583"],
+        "productDame": "Catch Disc",
+        "price": {
+            "value": 26
+        },
+        "name": "381C",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25582,
+        "categories": [25542],
+        "productNumber": "381C",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Catch Disc"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25587"],
+        "productDame": "Extension Wrenches",
+        "price": {
+            "value": 5.2
+        },
+        "name": "381W",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25586,
+        "categories": [25542],
+        "productNumber": "381W",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Extension Wrenches (2 pcs.)"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25589"],
+        "productDame": "Hardware Package",
+        "price": {
+            "value": 22.1
+        },
+        "name": "381H",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25588,
+        "categories": [25542],
+        "productNumber": "381H",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Hardware Package"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25602", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25611", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25622", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25620", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25597", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25610", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25621", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25619", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25592"],
+        "productDame": "Flush Mount",
+        "price": {
+            "value": 252.75
+        },
+        "name": "380F",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25591,
+        "categories": [25590],
+        "productNumber": "380F",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Electromagnetic Door Holder\nFlush Mount"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25640", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25639", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25616", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25608", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25607", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25604", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25603", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25598", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25594"],
+        "productDame": "Surface Mount",
+        "price": {
+            "value": 278.65
+        },
+        "name": "380S",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25593,
+        "categories": [25590],
+        "productNumber": "380S",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Electromagnetic Door Holder\nSurface Mount"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25638", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25637", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25636", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25635", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25618", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25613", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25612", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25599", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25596"],
+        "productDame": "Recessed Mount",
+        "price": {
+            "value": 252.75
+        },
+        "name": "380R",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25595,
+        "categories": [25590],
+        "productNumber": "380R",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Electromagnetic Door Holder\nRecessed Mount"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25601", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25624", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25614", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25625", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25623", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25617", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25615", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25609", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25626"],
+        "productDame": "Floor Mount (Single Door)",
+        "price": {
+            "value": 382.35
+        },
+        "name": "380G",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25600,
+        "categories": [25590],
+        "productNumber": "380G",
+        "case": {
+            "quantity": "18"
+        },
+        "productDescription": "Electromagnetic Door Holder\nFloor Mount (Single Door)"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25634", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25633", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25632", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25631", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25630", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25629", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25628", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25627", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25606"],
+        "productDame": "Floor Mount (Double Door)",
+        "price": {
+            "value": 447.15
+        },
+        "name": "380H",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25605,
+        "categories": [25590],
+        "productNumber": "380H",
+        "case": {
+            "quantity": "6"
+        },
+        "productDescription": "Electromagnetic Door Holder\nFloor Mount (Double Door)"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25652", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25651", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25650", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25644"],
+        "productDame": "Drop Plate",
+        "price": {
+            "value": 40
+        },
+        "name": "5115",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25643,
+        "categories": [25642],
+        "productNumber": "5115",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Drop Plate - Top Jamb Mount w/ Fasteners"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25649", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25648", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25647", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25646"],
+        "productDame": "Drop Plate",
+        "price": {
+            "value": 40
+        },
+        "name": "5114",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25645,
+        "categories": [25642],
+        "productNumber": "5114",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Drop Plate - Low Clearance Top Jamb Mount w/ Fasteners"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25731", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25730", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25729", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25654"],
+        "productDame": "Extra Heavy Duty Parallel Arm Bracket",
+        "price": {
+            "value": 16.65
+        },
+        "name": "5111",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25653,
+        "categories": [25642],
+        "productNumber": "5111",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Parallel Arm Bracket"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25659", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25658", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25657", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25656"],
+        "productDame": "Drop Plate - Parallel Arm Mount w/ Fasteners",
+        "price": {
+            "value": 40
+        },
+        "name": "5110",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25655,
+        "categories": [25642],
+        "productNumber": "5110",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Drop Plate - Parallel Arm Mount w/ Fasteners"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25664", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25663", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25662", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25661"],
+        "productDame": "Drop Plate - Regular Arm Mount w/ Fasteners",
+        "price": {
+            "value": 40
+        },
+        "name": "5109",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25660,
+        "categories": [25642],
+        "productNumber": "5109",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Drop Plate - Regular Arm Mount w/ Fasteners"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25669", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25668", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25667", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25666"],
+        "productDame": "Parallel Arm Bracket",
+        "price": {
+            "value": 8.4
+        },
+        "name": "5909",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25665,
+        "categories": [25642],
+        "productNumber": "5909",
+        "case": {
+            "quantity": "20"
+        },
+        "productDescription": "Parallel Arm Bracket"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25720", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25719", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25673", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25672", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25671"],
+        "productDame": "Plated Metal Cover\n",
+        "price": {
+            "value": 201.65
+        },
+        "specialnote1": "Check with factory for availability",
+        "name": "5962",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25670,
+        "categories": [25642],
+        "productNumber": "5962",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Plated Metal Cover\n"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25678", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25677", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25676", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25675"],
+        "productDame": "Standard Fastener Pack",
+        "price": {
+            "value": 9.3
+        },
+        "name": "5104",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25674,
+        "categories": [25642],
+        "productNumber": "5104",
+        "case": {
+            "quantity": "80"
+        },
+        "productDescription": "Standard Fastener Pack"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25683", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25682", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25681", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25680"],
+        "productDame": "Full Plastic Cover",
+        "price": {
+            "value": 16.65
+        },
+        "name": "5102",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25679,
+        "categories": [25642],
+        "productNumber": "5102",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Full Plastic Cover"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25688", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25687", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25686", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25685"],
+        "productDame": "Blade Stop Spacer",
+        "price": {
+            "value": 24.8
+        },
+        "name": "5113",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25684,
+        "categories": [25642],
+        "productNumber": "5113",
+        "case": {
+            "quantity": "15"
+        },
+        "productDescription": "Blade Stop Spacer"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25693", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25692", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25691", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25690"],
+        "productDame": "Long Rod and Shoe",
+        "price": {
+            "value": 16.65
+        },
+        "specialnote1": "For door reveals between 3\" - 5\"",
+        "name": "5112",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25689,
+        "categories": [25642],
+        "productNumber": "5112",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Long Rod and Shoe"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25698", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25697", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25696", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25695"],
+        "productDame": "SNB Fastener Pack, 1-3/4\" Door",
+        "price": {
+            "value": 9.3
+        },
+        "name": "5940",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25694,
+        "categories": [25642],
+        "productNumber": "5940",
+        "case": {
+            "quantity": "200"
+        },
+        "productDescription": "SNB Fastener Pack, 1-3/4\" Door"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25703", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25702", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25701", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25700"],
+        "productDame": "SNB Fastener Pack, 1-3/8\" Door",
+        "price": {
+            "value": 9.3
+        },
+        "name": "5941",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25699,
+        "categories": [25642],
+        "productNumber": "5941",
+        "case": {
+            "quantity": "200"
+        },
+        "productDescription": "SNB Fastener Pack, 1-3/8\" Door"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25708", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25707", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25706", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25705"],
+        "productDame": "SNB Fastener Pack, 2\" Door",
+        "price": {
+            "value": 9.3
+        },
+        "name": "5942",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25704,
+        "categories": [25642],
+        "productNumber": "5942",
+        "case": {
+            "quantity": "200"
+        },
+        "productDescription": "SNB Fastener Pack, 2\" Door"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25713", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25712", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25711", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25710"],
+        "productDame": "SNB Fastener Pack, 2-1/4\" Door",
+        "price": {
+            "value": 9.3
+        },
+        "name": "5943",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25709,
+        "categories": [25642],
+        "productNumber": "5943",
+        "case": {
+            "quantity": "200"
+        },
+        "productDescription": "SNB Fastener Pack, 2-1/4\" Door"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25718", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25717", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25716", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25715"],
+        "productDame": "2\" Extra Clearance Bracket",
+        "price": {
+            "value": 21.85
+        },
+        "name": "5935",
+        "box": {
+            "quantity": "6"
+        },
+        "id": 25714,
+        "categories": [25642],
+        "productNumber": "5935",
+        "case": {
+            "quantity": "36"
+        },
+        "productDescription": "2\" Extra Clearance Bracket"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25722"],
+        "productDame": "Tamper Resistant Torx Fastener Pack",
+        "price": {
+            "value": 28.65
+        },
+        "name": "5946",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25721,
+        "categories": [25642],
+        "productNumber": "5946",
+        "case": {
+            "quantity": "1000"
+        },
+        "productDescription": "Tamper Resistant Torx Fastener Pack\nSex Nuts and Bolts for 1-3/4\" (44mm) doors"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25727", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25725", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25724", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25726"],
+        "productDame": "Closer Body",
+        "price": {
+            "value": 238.55
+        },
+        "specialnote2": "Adjustable sizes 1-6",
+        "name": "5101",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25723,
+        "categories": [25642],
+        "productNumber": "5101",
+        "case": {
+            "quantity": "4"
+        },
+        "productDescription": "5100 Series Closer Body Only"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25815", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25814", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25813", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25812", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25736", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25735", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25734", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25733"],
+        "productDame": "Standard Hold Open Arm",
+        "price": {
+            "value": 70.4
+        },
+        "name": "5107",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25732,
+        "categories": [25728],
+        "productNumber": "5107",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Standard Hold Open Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25843", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25842", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25838", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25837", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25835", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25834", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25818", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25817", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25746", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25740", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25739", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25738"],
+        "productDame": "Extra Heavy Duty Hold Open Arm",
+        "price": {
+            "value": 90.5
+        },
+        "specialnote1": "Specify handing when ordering",
+        "name": "5108",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25737,
+        "categories": [25728],
+        "productNumber": "5108",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Hold Open Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25829", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25826", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25823", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25816", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25745", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25744", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25743", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25742"],
+        "productDame": "Extra Heavy Duty Parallel Arm",
+        "price": {
+            "value": 90.5
+        },
+        "name": "5106",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25741,
+        "categories": [25728],
+        "productNumber": "5106",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Parallel Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25840", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25833", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25832", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25820", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25751", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25750", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25749", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25748"],
+        "productDame": "Extra Heavy Duty - Hold Open Cushion Stop Arm",
+        "price": {
+            "value": 253.85
+        },
+        "name": "5954",
+        "includes": "Includes 5961 and 5950",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25747,
+        "categories": [25728],
+        "productNumber": "5954",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty - Hold Open Cushion Stop Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25841", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25839", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25836", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25822", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25756", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25755", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25754", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25753"],
+        "productDame": "Extra Heavy Duty Cushion Stop Arm",
+        "price": {
+            "value": 218.45
+        },
+        "name": "5955",
+        "includes": "Includes 5125 and 5950",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25752,
+        "categories": [25728],
+        "productNumber": "5955",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Cushion Stop Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25831", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25828", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25825", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25821", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25761", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25760", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25759", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25758"],
+        "productDame": "Extra Heavy Duty Stop Arm",
+        "price": {
+            "value": 90.5
+        },
+        "specialnote1": "Can be combined with 5950, spring cushion kit",
+        "name": "5125",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25757,
+        "categories": [25728],
+        "productNumber": "5125",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Stop Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25763"],
+        "productDame": "Non Hold Open Stop Track Arm ",
+        "price": {
+            "value": 87.55
+        },
+        "name": "2-659-0189",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25762,
+        "categories": [25728],
+        "productNumber": "2-659-0189 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Non Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25765"],
+        "productDame": "Non Hold Open Stop Track Arm ",
+        "price": {
+            "value": 87.55
+        },
+        "name": "2-659-0190",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25764,
+        "categories": [25728],
+        "productNumber": "2-659-0190 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Non Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25767"],
+        "productDame": "Non Hold Open Stop Track Arm ",
+        "price": {
+            "value": 87.55
+        },
+        "name": "2-659-0188",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25766,
+        "categories": [25728],
+        "productNumber": "2-659-0188 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Non Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25769"],
+        "productDame": "Non Hold Open Stop Track Arm ",
+        "price": {
+            "value": 87.55
+        },
+        "name": "2-659-0187",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25768,
+        "categories": [25728],
+        "productNumber": "2-659-0187 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Non Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25771"],
+        "productDame": "Hold Open Stop Track Arm ",
+        "price": {
+            "value": 100.95
+        },
+        "name": "2-659-0195",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25770,
+        "categories": [25728],
+        "productNumber": "2-659-0195 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25773"],
+        "productDame": "Hold Open Stop Track Arm ",
+        "price": {
+            "value": 100.95
+        },
+        "name": "2-659-0196",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25772,
+        "categories": [25728],
+        "productNumber": "2-659-0196 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25775"],
+        "productDame": "Hold Open Stop Track Arm ",
+        "price": {
+            "value": 100.95
+        },
+        "name": "2-659-0197",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25774,
+        "categories": [25728],
+        "productNumber": "2-659-0197 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25777"],
+        "productDame": "Hold Open Stop Track Arm ",
+        "price": {
+            "value": 100.95
+        },
+        "name": "2-659-0198",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25776,
+        "categories": [25728],
+        "productNumber": "2-659-0198 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25779"],
+        "productDame": "Double Egress Non Hold Open Stop Track Arm ",
+        "price": {
+            "value": 125.65
+        },
+        "name": "2-659-0203",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25778,
+        "categories": [25728],
+        "productNumber": "2-659-0203 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Double Egress Non Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25781"],
+        "productDame": "Double Egress Non Hold Open Stop Track Arm ",
+        "price": {
+            "value": 125.65
+        },
+        "name": "2-659-0204",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25780,
+        "categories": [25728],
+        "productNumber": "2-659-0204",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Double Egress Non Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25783"],
+        "productDame": "Double Egress Non Hold Open Stop Track Arm ",
+        "price": {
+            "value": 125.65
+        },
+        "name": "2-659-0205",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25782,
+        "categories": [25728],
+        "productNumber": "2-659-0205 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Double Egress Non Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25785"],
+        "productDame": "Double Egress Non Hold Open Stop Track Arm ",
+        "price": {
+            "value": 125.65
+        },
+        "name": "2-659-0206",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25784,
+        "categories": [25728],
+        "productNumber": "2-659-0206 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Double Egress Non Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25787"],
+        "productDame": "Double Egress Hold Open Stop Track Arm ",
+        "price": {
+            "value": 144.2
+        },
+        "name": "2-659-0207",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25786,
+        "categories": [25728],
+        "productNumber": "2-659-0207",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Double Egress Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25789"],
+        "productDame": "Double Egress Hold Open Stop Track Arm ",
+        "price": {
+            "value": 144.2
+        },
+        "name": "2-659-0208",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25788,
+        "categories": [25728],
+        "productNumber": "2-659-0208",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Double Egress Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25791"],
+        "productDame": "Double Egress Hold Open Stop Track Arm ",
+        "price": {
+            "value": 144.2
+        },
+        "name": "2-659-0209",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25790,
+        "categories": [25728],
+        "productNumber": "2-659-0209 ",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Double Egress Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25793"],
+        "productDame": "Double Egress Hold Open Stop Track Arm ",
+        "price": {
+            "value": 144.2
+        },
+        "name": "2-659-0210",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25792,
+        "categories": [25728],
+        "productNumber": "2-659-0210",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Double Egress Hold Open Stop Track Arm "
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25830", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25827", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25824", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25819", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25798", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25797", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25796", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25795"],
+        "productDame": "Extra Heavy Duty Hold Open Stop Arm",
+        "price": {
+            "value": 180.7
+        },
+        "specialnote1": "Can be combined with 5950, spring cushion kit.",
+        "name": "5961",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25794,
+        "categories": [25728],
+        "productNumber": "5961",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Extra Heavy Duty Hold Open Stop Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25804", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25803", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25802", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25801"],
+        "productDame": "Main Arm Assembly",
+        "price": {
+            "value": 33
+        },
+        "name": "5103",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25800,
+        "categories": [25799],
+        "productNumber": "5103",
+        "case": {
+            "quantity": "8"
+        },
+        "productDescription": "Main Arm Assembly"
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/37904", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/37901", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/37898", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/37895", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/image/37892"],
+        "notes": "Any certified BHMA/ANSI A156.4 door closer, regardless of manufacturer, that is installed and adjusted based on ADA or other reduced opening force requirements may not provide sufficient power to reliably close and latch a door. \n\nIf arms are ordered separately, there will be a significant difference in price than if purchased with a closer as a complete assembly.\nSee adders for more information (dd the list price of the option to the list price of the closer and take standard discounts).",
+        "box": {
+            "quantity": "1"
+        },
+        "productNumber": "5100",
+        "certifications": "BHMA Certified ANSI A156.4, adjustable sizes 1-6\nADA compliant ANSI A117.1 Accessibility Code\nUL/cUL Listed for up to 3 hours\nUL10C Positive Pressure Rated\nUL10B Neutral Pressure Rated",
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25807", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25810", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25809", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25808"],
+        "productDame": "Grade 1 Heavy Duty Surface Door Closer",
+        "price": {
+            "value": 315.65
+        },
+        "specialnote2": "Adjustable sizes 1-6",
+        "specialnote1": "The recommended temperatures for prolonged closer use is between -40° F (-42° C) and 150° F (66° C)",
+        "name": "5100",
+        "handing": "Non-Handed",
+        "warranty": "Lifetime Warranty ",
+        "id": 25806,
+        "categories": [25805],
+        "case": {
+            "quantity": "4"
+        },
+        "productDescription": "To maximize hinge life and assist in achieving ADA compliance, Hager recommends the use of anti-friction or ball bearing hinges with our door closer products.",
+        "applications": "Ideal for schools, hospitals, and other high-use environments"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25859", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25850", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25849", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25845"],
+        "productDame": "Closer w/ Hold Open Stop Track Arm",
+        "price": {
+            "value": 372.6
+        },
+        "name": "5100  Closer w/ Hold Open Stop Track Arm",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25844,
+        "categories": [25811],
+        "productNumber": "5100  Closer w/ Hold Open Stop Track Arm",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "5100  Closer w/ Hold Open Stop Track Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25847", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25858", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25857", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25848"],
+        "productDame": "Closer w/ Non Hold Open Stop Track Arm",
+        "price": {
+            "value": 359.35
+        },
+        "name": "5100  Closer w/  Non Hold Open Stop Track Arm",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25846,
+        "categories": [25811],
+        "productNumber": "5100  Closer w/  Non Hold Open Stop Track Arm",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "5100  Closer w/ Non Hold Open Stop Track Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25861", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25860", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25853", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25852"],
+        "productDame": "Closer w/ Double Egress Non Hold Open Stop Track Arm",
+        "price": {
+            "value": 388.05
+        },
+        "name": "5100  Closer w/ Double Egress Non Hold Open Stop Track Arm",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25851,
+        "categories": [25811],
+        "productNumber": "5100  Closer w/ Double Egress Non Hold Open Stop Track Arm",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "5100  Closer w/ Double Egress Non Hold Open Stop Track Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25863", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25862", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25856", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25855"],
+        "productDame": "Closer w/ Double Egress Hold Open Stop Track Arm",
+        "price": {
+            "value": 401.3
+        },
+        "name": "5100  Closer w/ Double Egress  Hold Open Stop Track Arm",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25854,
+        "categories": [25811],
+        "productNumber": "5100  Closer w/ Double Egress  Hold Open Stop Track Arm",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "5100  Closer w/ Double Egress Hold Open Stop Track Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25865"],
+        "productDame": "5100 Series High Security Package",
+        "price": {
+            "value": 367.1
+        },
+        "name": "5100M16ALMOMOX",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25864,
+        "categories": [25811],
+        "productNumber": "5100M16ALMOMOX",
+        "case": {
+            "quantity": "4"
+        },
+        "productDescription": "5100 Series High Security Package\nPackage Contains: Closer, main arm assembly, parallel arm bracket, standard Fastener pack, SNB Fastener pack, torx Fastener pack and painted metal cover."
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25876", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25871", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25870", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25869"],
+        "productDame": "Drop Plate",
+        "price": {
+            "value": 40
+        },
+        "specialnote1": "For use with full cover.",
+        "name": "5923",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25868,
+        "categories": [25867],
+        "productNumber": "5923",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Drop Plate\nParallel Arm with Mounting Fasteners"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25877", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25875", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25874", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25873"],
+        "productDame": "Drop Plate",
+        "price": {
+            "value": 40
+        },
+        "specialnote1": "For use with slim line or no cover.",
+        "name": "5922",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25872,
+        "categories": [25867],
+        "productNumber": "5922",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Drop Plate - Top Jamb\nParallel Arm with Mounting Fasteners"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25882", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25881", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25880", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25879"],
+        "productDame": "Drop Plate",
+        "price": {
+            "value": 40
+        },
+        "specialnote1": "For use with full cover.",
+        "name": "5921",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25878,
+        "categories": [25867],
+        "productNumber": "5921",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Drop Plate\nNarrow Top Rail w/ Mounting Fasteners"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25922", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25886", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25885", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25884"],
+        "productDame": "Plated Metal Cover",
+        "price": {
+            "value": 164.25
+        },
+        "specialnote1": "(Check with factory for availability)",
+        "name": "5932",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25883,
+        "categories": [25867],
+        "productNumber": "5932",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Plated Metal Cover"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25906", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25900", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25899", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25888"],
+        "productDame": "Standard Fastener Pack",
+        "price": {
+            "value": 9.6
+        },
+        "name": "5204",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25887,
+        "categories": [25867],
+        "productNumber": "5204",
+        "case": {
+            "quantity": "80"
+        },
+        "productDescription": "Standard Fastener Pack"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25896", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25894", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25891", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25890"],
+        "productDame": "Slim Line Plastic Cover",
+        "price": {
+            "value": 16.65
+        },
+        "name": "5920",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25889,
+        "categories": [25867],
+        "productNumber": "5920",
+        "case": {
+            "quantity": "18"
+        },
+        "productDescription": "Slim Line Plastic Cover"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25898", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25897", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25895", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25893"],
+        "productDame": "Pinion Cap",
+        "price": {
+            "value": 1.85
+        },
+        "name": "5919",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25892,
+        "categories": [25867],
+        "productNumber": "5919",
+        "case": {
+            "quantity": "20"
+        },
+        "productDescription": "Pinion Cap"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25905", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25904", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25903", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25902"],
+        "productDame": "Drop Plate",
+        "price": {
+            "value": 41.2
+        },
+        "specialnote1": "For use with slim line or no cover.",
+        "name": "5918",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25901,
+        "categories": [25867],
+        "productNumber": "5918",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Drop Plate - Top Jamb\nNarrow Top Rail w/ Mounting Fasteners"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25911", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25910", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25909", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25908"],
+        "productDame": "Standard Hold Open Arm",
+        "price": {
+            "value": 72.45
+        },
+        "specialnote1": "If ordered separately, 5914 needed for parallel mount.",
+        "name": "5207",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25907,
+        "categories": [25867],
+        "productNumber": "5207",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "Standard Hold Open Arm"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25916", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25915", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25914", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25913"],
+        "productDame": "Full Plastic Cover",
+        "price": {
+            "value": 16.65
+        },
+        "name": "5202",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25912,
+        "categories": [25867],
+        "productNumber": "5202",
+        "case": {
+            "quantity": "25"
+        },
+        "productDescription": "Full Plastic Cover\n5200 Series"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25921", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25920", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25919", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25918"],
+        "productDame": "Closer Body Only",
+        "price": {
+            "value": 167.1
+        },
+        "name": "5201",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25917,
+        "categories": [25867],
+        "productNumber": "5201",
+        "case": {
+            "quantity": "6"
+        },
+        "productDescription": "5200 Series Closer Body Only\nAdjustable sizes 1-6"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25979", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25955", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25950", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25936", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25928", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25927", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25926", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25925"],
+        "productDame": "Main Arm",
+        "price": {
+            "value": 33
+        },
+        "name": "5203",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25924,
+        "categories": [25923],
+        "productNumber": "5203",
+        "case": {
+            "quantity": "8"
+        },
+        "productDescription": "Main Arm Assembly\n5200 Series"
+    }, {
+        "productItems": ["https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25981", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25971", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25970", "https://onlinechannel.hagerco.com/hcms/v1.11/entity/productItem/25930"],
+        "productDame": "5200  Closer Hold Open Stop Track Arm",
+        "price": {
+            "value": 295.55
+        },
+        "name": "5200  Closer Hold Open Stop Track Arm",
+        "box": {
+            "quantity": "1"
+        },
+        "id": 25929,
+        "categories": [25923],
+        "productNumber": "5200  Closer Hold Open Stop Track Arm",
+        "case": {
+            "quantity": "10"
+        },
+        "productDescription": "5200  Closer w/ Hold Open Stop Track Arm"
+    }],
+    "offset": 0,
+    "limit": 100,
+    "count": 100,
+    "total-count": 1496,
+    "page": {
+        "next": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/product?offset=100",
+        "current": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/product?offset=0",
+        "last": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/product?offset=1400",
+        "first": "https://onlinechannel.hagerco.com/hcms/v1.11/entity/product?offset=0"
+    }
+}

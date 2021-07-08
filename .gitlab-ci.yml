@@ -1,0 +1,48 @@
+---
+image: docker:19.03.12
+
+services:
+  - docker:19.03.12-dind
+  
+variables:
+  DOCKER_TLS_CERTDIR: ""
+  DOCKER_HOST: tcp://localhost:2375
+
+stages:
+  - build
+
+before_script:
+  - echo -n $CI_JOB_TOKEN | docker login -u gitlab-ci-token --password-stdin $CI_REGISTRY
+
+after_script:
+  - docker logout $CI_REGISTRY
+
+build_latest:
+  stage: build
+  only:
+    - master@rsoberano/hager-react
+  image: nci-registry.novacoast.com/operations/gitlab-runner-awscli:latest
+  script:
+    - mkdir -p /root/.aws
+    - cat ${AWS_CONFIG} > /root/.aws/config
+    - cat ${AWS_CREDENTIALS} > /root/.aws/credentials
+    - aws ecr get-login-password --region us-west-1 | docker login --username AWS --password-stdin ${ECR_URL}
+    - docker pull ${ECR_URL}/nci-hagar:latest || true
+    - docker build --cache-from ${ECR_URL}/nci-hagar:latest --pull -t ${ECR_URL}/nci-hagar:latest .
+    - docker push ${ECR_URL}/nci-hagar:latest
+    - docker logout ${ECR_URL}
+
+build_prod:
+  stage: build
+  only:
+    - prod@rsoberano/hager-react
+  image: nci-registry.novacoast.com/operations/gitlab-runner-awscli:latest
+  script:
+    - mkdir -p /root/.aws
+    - cat ${AWS_CONFIG} > /root/.aws/config
+    - cat ${AWS_CREDENTIALS} > /root/.aws/credentials
+    - aws ecr get-login-password --region us-west-1 | docker login --username AWS --password-stdin ${ECR_URL}
+    - docker pull ${ECR_URL}/nci-hagar:prod || true
+    - docker build --cache-from ${ECR_URL}/nci-hagar:prod --pull -t ${ECR_URL}/nci-hagar:prod .
+    - docker push ${ECR_URL}/nci-hagar:prod
+    - docker logout ${ECR_URL}

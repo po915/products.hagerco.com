@@ -1,0 +1,613 @@
+{
+    "result": [{
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 GOL",
+        "stocknumber": "009126",
+        "id": 25305,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 GOL",
+        "stocknumber": "009126",
+        "id": 25306,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 DBZ",
+        "stocknumber": "009127",
+        "id": 25307,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 DBZ",
+        "stocknumber": "009127",
+        "id": 25308,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 BRZ",
+        "stocknumber": "009128",
+        "id": 25309,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 BRZ",
+        "stocknumber": "009128",
+        "id": 25310,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 ALM",
+        "stocknumber": "009129",
+        "id": 25311,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 ALM",
+        "stocknumber": "009129",
+        "id": 25312,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 ALM",
+        "stocknumber": "009921",
+        "id": 25314,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 GOL",
+        "stocknumber": "073074",
+        "id": 25316,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 GOL",
+        "stocknumber": "073074",
+        "id": 25317,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 GOL",
+        "stocknumber": "073074",
+        "id": 25318,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 DBZ",
+        "stocknumber": "073076",
+        "id": 25319,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 DBZ",
+        "stocknumber": "073076",
+        "id": 25320,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 DBZ",
+        "stocknumber": "073076",
+        "id": 25321,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 BRZ",
+        "stocknumber": "073244",
+        "id": 25322,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 BRZ",
+        "stocknumber": "073244",
+        "id": 25323,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 BRZ",
+        "stocknumber": "073244",
+        "id": 25324,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 ALM",
+        "stocknumber": "073268",
+        "id": 25325,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 ALM",
+        "stocknumber": "073268",
+        "id": 25326,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25315",
+        "name": "5913 ALM",
+        "stocknumber": "073268",
+        "id": 25327,
+        "productNumber": "5913"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 GOL",
+        "stocknumber": "099112",
+        "id": 25329,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 GOL",
+        "stocknumber": "099112",
+        "id": 25330,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 GOL",
+        "stocknumber": "099112",
+        "id": 25331,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 DBZ",
+        "stocknumber": "099113",
+        "id": 25332,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 DBZ",
+        "stocknumber": "099113",
+        "id": 25333,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 DBZ",
+        "stocknumber": "099113",
+        "id": 25334,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 BRZ",
+        "stocknumber": "099114",
+        "id": 25335,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 BRZ",
+        "stocknumber": "099114",
+        "id": 25336,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 BRZ",
+        "stocknumber": "099114",
+        "id": 25337,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 ALM",
+        "stocknumber": "099115",
+        "id": 25338,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 ALM",
+        "stocknumber": "099115",
+        "id": 25339,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25328",
+        "name": "5905 ALM",
+        "stocknumber": "099115",
+        "id": 25340,
+        "productNumber": "5905"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 GOL",
+        "stocknumber": "099116",
+        "id": 25341,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 GOL",
+        "stocknumber": "099116",
+        "id": 25342,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 GOL",
+        "stocknumber": "099116",
+        "id": 25343,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 DBZ",
+        "stocknumber": "099117",
+        "id": 25344,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 DBZ",
+        "stocknumber": "099117",
+        "id": 25345,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 DBZ",
+        "stocknumber": "099117",
+        "id": 25346,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 BRZ",
+        "stocknumber": "099118",
+        "id": 25347,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 BRZ",
+        "stocknumber": "099118",
+        "id": 25348,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 BRZ",
+        "stocknumber": "099118",
+        "id": 25349,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 ALM",
+        "stocknumber": "099121",
+        "id": 25350,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25313",
+        "name": "5904 ALM",
+        "stocknumber": "099121",
+        "id": 25351,
+        "productNumber": "5904"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 GOL",
+        "stocknumber": "099122",
+        "id": 25353,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 GOL",
+        "stocknumber": "099122",
+        "id": 25354,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 GOL",
+        "stocknumber": "099122",
+        "id": 25355,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 DBZ",
+        "stocknumber": "099123",
+        "id": 25356,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 DBZ",
+        "stocknumber": "099123",
+        "id": 25357,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 DBZ",
+        "stocknumber": "099123",
+        "id": 25358,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 BRZ",
+        "stocknumber": "099124",
+        "id": 25359,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 BRZ",
+        "stocknumber": "099124",
+        "id": 25360,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 BRZ",
+        "stocknumber": "099124",
+        "id": 25361,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 ALM",
+        "stocknumber": "099125",
+        "id": 25362,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 ALM",
+        "stocknumber": "099125",
+        "id": 25363,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25352",
+        "name": "5903 ALM",
+        "stocknumber": "099125",
+        "id": 25364,
+        "productNumber": "5903"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 GOL",
+        "stocknumber": "099126",
+        "id": 25365,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 DBZ",
+        "stocknumber": "099127",
+        "id": 25366,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 BRZ",
+        "stocknumber": "099128",
+        "id": 25367,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25304",
+        "name": "5902 ALM",
+        "stocknumber": "099129",
+        "id": 25368,
+        "productNumber": "5902"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 GOL",
+        "stocknumber": "099134",
+        "id": 25370,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 GOL",
+        "stocknumber": "099134",
+        "id": 25371,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 GOL",
+        "stocknumber": "099134",
+        "id": 25372,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 DBZ",
+        "stocknumber": "099135",
+        "id": 25373,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 DBZ",
+        "stocknumber": "099135",
+        "id": 25374,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 DBZ",
+        "stocknumber": "099135",
+        "id": 25375,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 BRZ",
+        "stocknumber": "099138",
+        "id": 25376,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 BRZ",
+        "stocknumber": "099138",
+        "id": 25377,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 BRZ",
+        "stocknumber": "099138",
+        "id": 25378,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 ALM",
+        "stocknumber": "099140",
+        "id": 25379,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 ALM",
+        "stocknumber": "099140",
+        "id": 25380,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25369",
+        "name": "5900 ALM",
+        "stocknumber": "099140",
+        "id": 25381,
+        "productNumber": "5900"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25383",
+        "name": "5908 GOL",
+        "stocknumber": "035929",
+        "id": 25384,
+        "productNumber": "5908"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25383",
+        "name": "5908 GOL",
+        "stocknumber": "035929",
+        "id": 25385,
+        "productNumber": "5908"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25383",
+        "name": "5908 DBZ",
+        "stocknumber": "035941",
+        "id": 25386,
+        "productNumber": "5908"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25383",
+        "name": "5908 DBZ",
+        "stocknumber": "035941",
+        "id": 25387,
+        "productNumber": "5908"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25383",
+        "name": "5908 BRZ",
+        "stocknumber": "035988",
+        "id": 25388,
+        "productNumber": "5908"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25383",
+        "name": "5908 BRZ",
+        "stocknumber": "035988",
+        "id": 25389,
+        "productNumber": "5908"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25383",
+        "name": "5908 ALM",
+        "stocknumber": "035989",
+        "id": 25390,
+        "productNumber": "5908"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25383",
+        "name": "5908 ALM",
+        "stocknumber": "035989",
+        "id": 25391,
+        "productNumber": "5908"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25392",
+        "name": "5914 GOL",
+        "stocknumber": "072814",
+        "id": 25393,
+        "productNumber": "5914"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25392",
+        "name": "5914 GOL",
+        "stocknumber": "072814",
+        "id": 25394,
+        "productNumber": "5914"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25392",
+        "name": "5914 BRZ",
+        "stocknumber": "072905",
+        "id": 25395,
+        "productNumber": "5914"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25392",
+        "name": "5914 BRZ",
+        "stocknumber": "072905",
+        "id": 25396,
+        "productNumber": "5914"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25392",
+        "name": "5914 DBZ",
+        "stocknumber": "072907",
+        "id": 25397,
+        "productNumber": "5914"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25392",
+        "name": "5914 DBZ",
+        "stocknumber": "072907",
+        "id": 25398,
+        "productNumber": "5914"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25392",
+        "name": "5914 ALM",
+        "stocknumber": "072936",
+        "id": 25399,
+        "productNumber": "5914"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25392",
+        "name": "5914 ALM",
+        "stocknumber": "072936",
+        "id": 25400,
+        "productNumber": "5914"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25401",
+        "name": "5936 ALM",
+        "stocknumber": "129577",
+        "id": 25402,
+        "productNumber": "5936"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25401",
+        "name": "5936 ALM",
+        "stocknumber": "129577",
+        "id": 25403,
+        "productNumber": "5936"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25401",
+        "name": "5936 BRZ",
+        "stocknumber": "129578",
+        "id": 25404,
+        "productNumber": "5936"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25401",
+        "name": "5936 BRZ",
+        "stocknumber": "129578",
+        "id": 25405,
+        "productNumber": "5936"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25401",
+        "name": "5936 DBZ",
+        "stocknumber": "129579",
+        "id": 25406,
+        "productNumber": "5936"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25401",
+        "name": "5936 DBZ",
+        "stocknumber": "129579",
+        "id": 25407,
+        "productNumber": "5936"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25401",
+        "name": "5936 GOL",
+        "stocknumber": "129580",
+        "id": 25408,
+        "productNumber": "5936"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25401",
+        "name": "5936 GOL",
+        "stocknumber": "129580",
+        "id": 25409,
+        "productNumber": "5936"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25411",
+        "name": "5901 GOL",
+        "stocknumber": "099130",
+        "id": 25412,
+        "productNumber": "5901"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25411",
+        "name": "5901 GOL",
+        "stocknumber": "099130",
+        "id": 25413,
+        "productNumber": "5901"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25411",
+        "name": "5901 DBZ",
+        "stocknumber": "099131",
+        "id": 25414,
+        "productNumber": "5901"
+    }, {
+        "product": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/product/25411",
+        "name": "5901 DBZ",
+        "stocknumber": "099131",
+        "id": 25415,
+        "productNumber": "5901"
+    }],
+    "offset": 0,
+    "limit": 100,
+    "count": 100,
+    "total-count": 5997,
+    "page": {
+        "next": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productItem?offset=100",
+        "current": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productItem?offset=0",
+        "last": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productItem?offset=5900",
+        "first": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productItem?offset=0"
+    }
+}

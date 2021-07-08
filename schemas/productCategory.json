@@ -1,0 +1,452 @@
+{
+    "result": [{
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13904"],
+        "name": "Access Control",
+        "id": 13890
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13910"],
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37816", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37814", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37812", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28643", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28557", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28455", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28399", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28295", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28239", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28041", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28035", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28031", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28029", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/27951", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/27949", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26326", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26281", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26271"],
+        "name": "Commercial Hinges",
+        "id": 13891
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13908"],
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26186", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26183", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26124", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26023", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25866", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25641", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25541", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25485", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25434", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25302"],
+        "name": "Door Controls",
+        "id": 13892
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13914"],
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30078", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30084", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30097", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30100", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30113", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30130", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30154", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30186", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30316", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30321", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30336", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30341", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30344", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30477"],
+        "name": "Electrified",
+        "id": 13893
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13916"],
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38291", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38279", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38258", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38254", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38250", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38243", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38240", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38237", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38227", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38221", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38215", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38209", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38191", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38177", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38167", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38161", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38145", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38127", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38061", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/38038"],
+        "name": "Euroline",
+        "id": 13894
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13912"],
+        "name": "Exit Devices",
+        "id": 13895
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13906"],
+        "name": "Locks",
+        "id": 13896
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13918"],
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/32242", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/31673", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/31574"],
+        "name": "Residential Hinges",
+        "id": 13897
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13920"],
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/32933", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/32589", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/32575", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/32548"],
+        "name": "Roton",
+        "id": 13898
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13928"],
+        "name": "Sliding Door",
+        "id": 13899
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13924"],
+        "name": "Thresholds and Weatherstripping (T&W)",
+        "id": 13901
+    }, {
+        "images": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/image/13926"],
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37797", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37768", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37747", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37742", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37731", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37713", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37708", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37693", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37689", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37684", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37660", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37643", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37641", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37550", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37450", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37428", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/36331"],
+        "name": "Trim & Auxiliary",
+        "id": 13902
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13892",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25420", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25410", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25382", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25303"],
+        "name": "Accessories",
+        "id": 25302
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25302",
+        "name": "5200 Series, 5300 Series, 5400 Series",
+        "id": 25303
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25302",
+        "name": "5200 Series, 5300 Series",
+        "id": 25382
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25302",
+        "name": "5300 Series, 5400 Series",
+        "id": 25410
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25302",
+        "name": "5100 Series, 5200 Series, 5300 Series",
+        "id": 25420
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13892",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25462", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25456", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25435"],
+        "name": "5400 Series",
+        "id": 25434
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25434",
+        "name": "Grade 2 Standard Duty Closer",
+        "id": 25435
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25434",
+        "name": "Closer Arms",
+        "id": 25456
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25434",
+        "name": "Accessories",
+        "id": 25462
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13892",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25486"],
+        "name": "Accessories - Closer Arms",
+        "id": 25485
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25485",
+        "name": "5200 Series, 5300 Series",
+        "id": 25486
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13892",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25590", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25542"],
+        "name": "380 Series",
+        "id": 25541
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25541",
+        "name": "Electromagnetic Door Holders & Stops Accessories",
+        "id": 25542
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25541",
+        "name": "Electromagnetic Door Holders & Stops",
+        "id": 25590
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13892",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25811", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25805", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25799", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25728", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25642"],
+        "name": "5100 Series",
+        "id": 25641
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25641",
+        "name": "Accessories",
+        "id": 25642
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25641",
+        "name": "Closer Arms",
+        "id": 25728
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25641",
+        "name": "Arms",
+        "id": 25799
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25641",
+        "name": "Grade 1 Heavy Duty Closer",
+        "id": 25805
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25641",
+        "name": "Closers with Non-Standard Arms",
+        "id": 25811
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13892",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26017", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25923", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25867"],
+        "name": "5200 Series",
+        "id": 25866
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25866",
+        "name": "Accessories",
+        "id": 25867
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25866",
+        "name": "Closer Arms",
+        "id": 25923
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/25866",
+        "name": "Grade 1 Heavy Duty Closer",
+        "id": 26017
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13892",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26118", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26087", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26024"],
+        "name": "5300 Series",
+        "id": 26023
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26023",
+        "name": "Closer Arms",
+        "id": 26024
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26023",
+        "name": "Accessories",
+        "id": 26087
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26023",
+        "name": "Grade 1 Heavy Duty Closer",
+        "id": 26118
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13892",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26125"],
+        "name": "7000 Series",
+        "id": 26124
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26124",
+        "name": "Overhead Door Holders & Stops Series",
+        "id": 26125
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13892",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26184"],
+        "name": "7000 Series",
+        "id": 26183
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26183",
+        "name": "Overhead Door Holders & Stops Series",
+        "id": 26184
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13892",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26260", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26187"],
+        "name": "6000 Series",
+        "id": 26186
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26186",
+        "name": "Overhead Door Holders & Stops Series",
+        "id": 26187
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26186",
+        "name": "Overhead Door Holders & Stops Series Accessories",
+        "id": 26260
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "name": "Pivots",
+        "id": 26271
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "name": "Accessories",
+        "id": 26281
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26911", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26807", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26327"],
+        "name": "Full Mortise",
+        "id": 26326
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26326",
+        "name": "Three Knuckle",
+        "id": 26327
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26326",
+        "name": "Two Knuckle",
+        "id": 26807
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26326",
+        "name": "Five Knuckle",
+        "id": 26911
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/27950"],
+        "name": "Detention Hinges - Full Mortise",
+        "id": 27949
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/27949",
+        "name": "Three Knuckle",
+        "id": 27950
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/27986", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/27952"],
+        "name": "Half Mortise",
+        "id": 27951
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/27951",
+        "name": "Three Knuckle",
+        "id": 27952
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/27951",
+        "name": "Five Knuckle",
+        "id": 27986
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28030"],
+        "name": "Detention Hinges - Full Mortise",
+        "id": 28029
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28029",
+        "name": "Three Knuckle",
+        "id": 28030
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28032"],
+        "name": "Detention Hinges - Full Mortise",
+        "id": 28031
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28031",
+        "name": "Three Knuckle",
+        "id": 28032
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28036"],
+        "name": "Detention Hinges - Full Surface",
+        "id": 28035
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28035",
+        "name": "Three Knuckle",
+        "id": 28036
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28230", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28042"],
+        "name": "Full Mortise - Spring",
+        "id": 28041
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28041",
+        "name": "Three Knuckle",
+        "id": 28042
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28041",
+        "name": "Five Knuckle",
+        "id": 28230
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28240"],
+        "name": "Half Surface",
+        "id": 28239
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28239",
+        "name": "Five Knuckle",
+        "id": 28240
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28296"],
+        "name": "Full Surface",
+        "id": 28295
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28295",
+        "name": "Five Knuckle",
+        "id": 28296
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28400"],
+        "name": "Full Mortise - Swing Clear",
+        "id": 28399
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28399",
+        "name": "Three Knuckle",
+        "id": 28400
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28456"],
+        "name": "Anchors - Full Mortise",
+        "id": 28455
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28455",
+        "name": "Three Knuckle",
+        "id": 28456
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28558"],
+        "name": "Full Mortise -ECCO",
+        "id": 28557
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28557",
+        "name": "Five Knuckle",
+        "id": 28558
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13891",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28644"],
+        "name": "Specialty Hinge",
+        "id": 28643
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28643",
+        "name": "Full Mortise",
+        "id": 28644
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30079"],
+        "name": "Key Switches",
+        "id": 30078
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30078",
+        "name": "29KS",
+        "id": 30079
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "name": "Power Supplies",
+        "id": 30084
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "name": "Battery Backups",
+        "id": 30097
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "name": "Modules",
+        "id": 30100
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "name": "Exit Switches",
+        "id": 30113
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30131"],
+        "name": "Keypads",
+        "id": 30130
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30130",
+        "name": "2915",
+        "id": 30131
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30169"],
+        "name": "Electric Strikes",
+        "id": 30154
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30154",
+        "name": "2930",
+        "id": 30169
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30312", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30308", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30304", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30300"],
+        "name": "Magnetic Locks",
+        "id": 30186
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30186",
+        "name": "2951",
+        "id": 30300
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30186",
+        "name": "2952",
+        "id": 30304
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30186",
+        "name": "2953",
+        "id": 30308
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30186",
+        "name": "2954",
+        "id": 30312
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30317"],
+        "name": "Pressure Release Bars",
+        "id": 30316
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30316",
+        "name": "4801",
+        "id": 30317
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "name": "Power Transfer",
+        "id": 30321
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "name": "Delayed Egress",
+        "id": 30336
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "name": "Emergency Release",
+        "id": 30341
+    }, {
+        "parent": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/13893",
+        "children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30473", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30469", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30461", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30367", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30363", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30357", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30351", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/30345"],
+        "name": "Low Energy Power Operators",
+        "id": 30344
+    }],
+    "offset": 0,
+    "limit": 100,
+    "count": 100,
+    "total-count": 205,
+    "page": {
+        "next": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory?offset=100",
+        "current": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory?offset=0",
+        "last": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory?offset=200",
+        "first": "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory?offset=0"
+    }
+}
+
+
+"children": ["https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37816", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37814", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/37812", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28643", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28557", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28455", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28399", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28295", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28239", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28041", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28035", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28031", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/28029", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/27951", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/27949", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26326", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26281", "https://onlinechannel.hagerco.com/hcms/v1.6/entity/productCategory/26271"]
