@@ -56,18 +56,14 @@ export default function HagerNavbar() {
               WHO WE ARE
             </NavLink>
           </NavItem>
-          <NavItem
-            onPointerEnter={(e) => mouseOverItem(e, SECTION_ENUM.PRODUCTS)}
-            onPointerLeave={mouseLeaveItem}>
+          <NavItem>
             <NavLink
               className={setActiveClass(SECTION_ENUM.PRODUCTS)}
               to={routes.PRODUCTS}>
               PRODUCTS
             </NavLink>
           </NavItem>
-          <NavItem
-            onPointerEnter={(e) => mouseOverItem(e, SECTION_ENUM.ACCESSCONTROL)}
-            onPointerLeave={mouseLeaveItem}>
+          <NavItem>
             <NavLink
               className={setActiveClass(SECTION_ENUM.ACCESS_CONTROL)}
               to="#"
@@ -77,9 +73,7 @@ export default function HagerNavbar() {
               ACCESS CONTROL
             </NavLink>
           </NavItem>
-          <NavItem
-            onPointerEnter={(e) => mouseOverItem(e, SECTION_ENUM.DESIGN)}
-            onPointerLeave={mouseLeaveItem}>
+          <NavItem>
             <NavLink
               className={setActiveClass(SECTION_ENUM.DESIGN)}
               to="#"
@@ -87,9 +81,7 @@ export default function HagerNavbar() {
               DESIGN
             </NavLink>
           </NavItem>
-          <NavItem
-            onPointerEnter={(e) => mouseOverItem(e, SECTION_ENUM.RESOURCE)}
-            onPointerLeave={mouseLeaveItem}>
+          <NavItem>
             <NavLink
               className={setActiveClass(SECTION_ENUM.RESOURCE)}
               to="#"
