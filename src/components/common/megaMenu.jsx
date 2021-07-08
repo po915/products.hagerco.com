@@ -87,50 +87,44 @@ export default function MegaMenu() {
       className="megamenu-wrapper"
       onPointerEnter={mouseOverItem}
       onPointerLeave={mouseLeaveItem}>
-      <div className="container-fluid">
-        <div className="megamenu">
-          <div className="row no-gutters">
-            <div className="col-md-6">
-              <div className="megamenu-inner">
-                {activeLevel > 0 ? (
-                  <a
-                    href=""
-                    className="megamenu-back"
-                    onClick={(e) => setActiveLevel(e, activeLevel - 1, null)}>
-                    {menu.backLink}
-                  </a>
-                ) : (
-                  ""
-                )}
-                <div className="display-2 text-primary mb-4">{menu.title}</div>
-                <div className="row">
-                  {menu.links.length > 0 ? (
-                    <MegaMenuLinkList
-                      links={menu.links}
-                      linkCols={menu.linkCols}
-                      level={activeLevel}
-                      onLinkClick={onLinkClick}
-                      setActiveLevel={setActiveLevel}
-                    />
-                  ) : (
-                    <div className="col">
-                      No products found for this category.
-                    </div>
-                  )}
-                  {menu.activePreview != null ? (
-                    <MegaMenuPreview
-                      image={menu.activePreview.image}
-                      name={menu.activePreview.name}
-                      text={menu.activePreview.text}
-                      href={menu.activePreview.href}
-                      linktext={menu.activePreview.linkText}
-                      onLinkClick={onLinkClick}
-                    />
-                  ) : (
-                    ""
-                  )}
-                </div>
-              </div>
+      <div className="container">
+        <div className="megamenu col-md-6">
+          <div className="megamenu-inner">
+            {activeLevel > 0 ? (
+              <a
+                href=""
+                className="megamenu-back"
+                onClick={(e) => setActiveLevel(e, activeLevel - 1, null)}>
+                {menu.backLink}
+              </a>
+            ) : (
+              ""
+            )}
+            <div className="display-2 text-primary mb-4">{menu.title}</div>
+            <div className="row">
+              {menu.links.length > 0 ? (
+                <MegaMenuLinkList
+                  links={menu.links}
+                  linkCols={menu.linkCols}
+                  level={activeLevel}
+                  onLinkClick={onLinkClick}
+                  setActiveLevel={setActiveLevel}
+                />
+              ) : (
+                <div className="col">No products found for this category.</div>
+              )}
+              {menu.activePreview != null ? (
+                <MegaMenuPreview
+                  image={menu.activePreview.image}
+                  name={menu.activePreview.name}
+                  text={menu.activePreview.text}
+                  href={menu.activePreview.href}
+                  linktext={menu.activePreview.linkText}
+                  onLinkClick={onLinkClick}
+                />
+              ) : (
+                ""
+              )}
             </div>
           </div>
         </div>
