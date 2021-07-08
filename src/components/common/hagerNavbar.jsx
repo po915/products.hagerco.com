@@ -56,7 +56,9 @@ export default function HagerNavbar() {
               WHO WE ARE
             </NavLink>
           </NavItem>
-          <NavItem>
+          <NavItem
+            onPointerEnter={(e) => mouseOverItem(e, SECTION_ENUM.PRODUCTS)}
+            onPointerLeave={mouseLeaveItem}>
             <NavLink
               className={setActiveClass(SECTION_ENUM.PRODUCTS)}
               to={routes.PRODUCTS}>
